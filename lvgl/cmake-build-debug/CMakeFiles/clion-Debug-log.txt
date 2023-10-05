@@ -1,0 +1,16 @@
+"D:\CLion\CLion 2022.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/MinGw8.1/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/MinGw8.1/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/MinGw8.1/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl -B D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\cmake-build-debug
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/MinGw8.1/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/MinGw8.1/mingw64/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done (14.3s)
+-- Generating done (0.2s)
+-- Build files have been written to: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug

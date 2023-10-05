@@ -1,0 +1,9 @@
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/lvgl.dir
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/lvgl_examples.dir
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/lvgl_demos.dir
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/list_install_components.dir
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/install.dir
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/install/local.dir
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/cmake-build-debug/CMakeFiles/install/strip.dir
