@@ -20,7 +20,7 @@ class Rook: public ChessPiece{
 public:
     Rook(const PointChess& point, bool color, ChessBoard& chessboard);
     virtual bool CanMoveTo(const PointChess& point)const override;
-    virtual const char *GetName()const ;
+    virtual const char * GetName()const ;
     virtual const bool CanCrossTheRiver()const;
 
 //    virtual void Draw();

@@ -21,7 +21,7 @@ public:
     Cannon(const PointChess& point, bool color, ChessBoard& chessboard);
 //    void DeleteButton();
     virtual bool CanMoveTo(const PointChess& point)const override;
-    virtual const char *GetName()const ;
+    virtual const char * GetName()const ;
     virtual const bool CanCrossTheRiver()const;
 
 };

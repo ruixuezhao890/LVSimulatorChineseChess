@@ -237,6 +237,30 @@ Chess/ChessPhysicalCoordinates/SDLCOOr.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPhysicalCoordinates/SDLCOOr.cpp.s
 .PHONY : Chess/ChessPhysicalCoordinates/SDLCOOr.cpp.s
 
+Chess/ChessPiece/Adviser.obj: Chess/ChessPiece/Adviser.cpp.obj
+.PHONY : Chess/ChessPiece/Adviser.obj
+
+# target to build an object file
+Chess/ChessPiece/Adviser.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj
+.PHONY : Chess/ChessPiece/Adviser.cpp.obj
+
+Chess/ChessPiece/Adviser.i: Chess/ChessPiece/Adviser.cpp.i
+.PHONY : Chess/ChessPiece/Adviser.i
+
+# target to preprocess a source file
+Chess/ChessPiece/Adviser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.i
+.PHONY : Chess/ChessPiece/Adviser.cpp.i
+
+Chess/ChessPiece/Adviser.s: Chess/ChessPiece/Adviser.cpp.s
+.PHONY : Chess/ChessPiece/Adviser.s
+
+# target to generate assembly for a file
+Chess/ChessPiece/Adviser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.s
+.PHONY : Chess/ChessPiece/Adviser.cpp.s
+
 Chess/ChessPiece/Cannon.obj: Chess/ChessPiece/Cannon.cpp.obj
 .PHONY : Chess/ChessPiece/Cannon.obj
 
@@ -285,6 +309,30 @@ Chess/ChessPiece/ChessPiece.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.s
 .PHONY : Chess/ChessPiece/ChessPiece.cpp.s
 
+Chess/ChessPiece/Elephant.obj: Chess/ChessPiece/Elephant.cpp.obj
+.PHONY : Chess/ChessPiece/Elephant.obj
+
+# target to build an object file
+Chess/ChessPiece/Elephant.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj
+.PHONY : Chess/ChessPiece/Elephant.cpp.obj
+
+Chess/ChessPiece/Elephant.i: Chess/ChessPiece/Elephant.cpp.i
+.PHONY : Chess/ChessPiece/Elephant.i
+
+# target to preprocess a source file
+Chess/ChessPiece/Elephant.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.i
+.PHONY : Chess/ChessPiece/Elephant.cpp.i
+
+Chess/ChessPiece/Elephant.s: Chess/ChessPiece/Elephant.cpp.s
+.PHONY : Chess/ChessPiece/Elephant.s
+
+# target to generate assembly for a file
+Chess/ChessPiece/Elephant.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.s
+.PHONY : Chess/ChessPiece/Elephant.cpp.s
+
 Chess/ChessPiece/Horse.obj: Chess/ChessPiece/Horse.cpp.obj
 .PHONY : Chess/ChessPiece/Horse.obj
 
@@ -308,6 +356,54 @@ Chess/ChessPiece/Horse.s: Chess/ChessPiece/Horse.cpp.s
 Chess/ChessPiece/Horse.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.s
 .PHONY : Chess/ChessPiece/Horse.cpp.s
+
+Chess/ChessPiece/King.obj: Chess/ChessPiece/King.cpp.obj
+.PHONY : Chess/ChessPiece/King.obj
+
+# target to build an object file
+Chess/ChessPiece/King.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj
+.PHONY : Chess/ChessPiece/King.cpp.obj
+
+Chess/ChessPiece/King.i: Chess/ChessPiece/King.cpp.i
+.PHONY : Chess/ChessPiece/King.i
+
+# target to preprocess a source file
+Chess/ChessPiece/King.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.i
+.PHONY : Chess/ChessPiece/King.cpp.i
+
+Chess/ChessPiece/King.s: Chess/ChessPiece/King.cpp.s
+.PHONY : Chess/ChessPiece/King.s
+
+# target to generate assembly for a file
+Chess/ChessPiece/King.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.s
+.PHONY : Chess/ChessPiece/King.cpp.s
+
+Chess/ChessPiece/Pawn.obj: Chess/ChessPiece/Pawn.cpp.obj
+.PHONY : Chess/ChessPiece/Pawn.obj
+
+# target to build an object file
+Chess/ChessPiece/Pawn.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj
+.PHONY : Chess/ChessPiece/Pawn.cpp.obj
+
+Chess/ChessPiece/Pawn.i: Chess/ChessPiece/Pawn.cpp.i
+.PHONY : Chess/ChessPiece/Pawn.i
+
+# target to preprocess a source file
+Chess/ChessPiece/Pawn.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.i
+.PHONY : Chess/ChessPiece/Pawn.cpp.i
+
+Chess/ChessPiece/Pawn.s: Chess/ChessPiece/Pawn.cpp.s
+.PHONY : Chess/ChessPiece/Pawn.s
+
+# target to generate assembly for a file
+Chess/ChessPiece/Pawn.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.s
+.PHONY : Chess/ChessPiece/Pawn.cpp.s
 
 Chess/ChessPiece/Rook.obj: Chess/ChessPiece/Rook.cpp.obj
 .PHONY : Chess/ChessPiece/Rook.obj
@@ -6021,6 +6117,30 @@ lvgl/src/font/lv_font_unscii_8.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.s
 .PHONY : lvgl/src/font/lv_font_unscii_8.c.s
 
+lvgl/src/font/myFont.obj: lvgl/src/font/myFont.c.obj
+.PHONY : lvgl/src/font/myFont.obj
+
+# target to build an object file
+lvgl/src/font/myFont.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj
+.PHONY : lvgl/src/font/myFont.c.obj
+
+lvgl/src/font/myFont.i: lvgl/src/font/myFont.c.i
+.PHONY : lvgl/src/font/myFont.i
+
+# target to preprocess a source file
+lvgl/src/font/myFont.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/lvgl/src/font/myFont.c.i
+.PHONY : lvgl/src/font/myFont.c.i
+
+lvgl/src/font/myFont.s: lvgl/src/font/myFont.c.s
+.PHONY : lvgl/src/font/myFont.s
+
+# target to generate assembly for a file
+lvgl/src/font/myFont.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/lvgl/src/font/myFont.c.s
+.PHONY : lvgl/src/font/myFont.c.s
+
 lvgl/src/hal/lv_hal_disp.obj: lvgl/src/hal/lv_hal_disp.c.obj
 .PHONY : lvgl/src/hal/lv_hal_disp.obj
 
@@ -8203,15 +8323,27 @@ help:
 	@echo ... Chess/ChessPhysicalCoordinates/SDLCOOr.obj
 	@echo ... Chess/ChessPhysicalCoordinates/SDLCOOr.i
 	@echo ... Chess/ChessPhysicalCoordinates/SDLCOOr.s
+	@echo ... Chess/ChessPiece/Adviser.obj
+	@echo ... Chess/ChessPiece/Adviser.i
+	@echo ... Chess/ChessPiece/Adviser.s
 	@echo ... Chess/ChessPiece/Cannon.obj
 	@echo ... Chess/ChessPiece/Cannon.i
 	@echo ... Chess/ChessPiece/Cannon.s
 	@echo ... Chess/ChessPiece/ChessPiece.obj
 	@echo ... Chess/ChessPiece/ChessPiece.i
 	@echo ... Chess/ChessPiece/ChessPiece.s
+	@echo ... Chess/ChessPiece/Elephant.obj
+	@echo ... Chess/ChessPiece/Elephant.i
+	@echo ... Chess/ChessPiece/Elephant.s
 	@echo ... Chess/ChessPiece/Horse.obj
 	@echo ... Chess/ChessPiece/Horse.i
 	@echo ... Chess/ChessPiece/Horse.s
+	@echo ... Chess/ChessPiece/King.obj
+	@echo ... Chess/ChessPiece/King.i
+	@echo ... Chess/ChessPiece/King.s
+	@echo ... Chess/ChessPiece/Pawn.obj
+	@echo ... Chess/ChessPiece/Pawn.i
+	@echo ... Chess/ChessPiece/Pawn.s
 	@echo ... Chess/ChessPiece/Rook.obj
 	@echo ... Chess/ChessPiece/Rook.i
 	@echo ... Chess/ChessPiece/Rook.s
@@ -8926,6 +9058,9 @@ help:
 	@echo ... lvgl/src/font/lv_font_unscii_8.obj
 	@echo ... lvgl/src/font/lv_font_unscii_8.i
 	@echo ... lvgl/src/font/lv_font_unscii_8.s
+	@echo ... lvgl/src/font/myFont.obj
+	@echo ... lvgl/src/font/myFont.i
+	@echo ... lvgl/src/font/myFont.s
 	@echo ... lvgl/src/hal/lv_hal_disp.obj
 	@echo ... lvgl/src/hal/lv_hal_disp.i
 	@echo ... lvgl/src/hal/lv_hal_disp.s

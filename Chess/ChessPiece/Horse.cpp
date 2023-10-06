@@ -52,8 +52,8 @@ bool Horse::CanMoveTo(const PointChess &point) const {
 
 }
 
-const char *Horse::GetName() const {
-    return "ÒR";
+const char * Horse::GetName() const {
+    return "È¶¨";
 }
 
 const bool Horse::CanCrossTheRiver() const {

@@ -126,20 +126,20 @@ uint8_t ChessGame::GetScreenPos() {
                     from.m_x = coords.x;
                     from.m_y = coords.y;
                    to.m_y=to.m_x=-1;//这里必须要将该坐标设置为负坐标不然会出现bug
-//                    LV_LOG_WARN("from:%d %d\n", from.m_x, from.m_y);
+                   LV_LOG_WARN("from:%d %d\n", from.m_x, from.m_y);
                     return 1;
                 }else{
                     return 0;
                 }
                 //status == Second &&
             }else if (chessBoard.GetChessBoard(coords.x, coords.y) == nullptr||
-                    chessBoard.GetChessBoard(coords.x, coords.y) != nullptr&&(coords.ColorOfArea()!=nextPlayer)) {
+                    chessBoard.GetChessBoard(coords.x, coords.y) != nullptr&&( chessBoard.GetChessBoard(coords.x, coords.y)->ChessColor!=nextPlayer)) {
 
                 if ( (coords.x != from.m_x || coords.y != from.m_y)) {
                     to.m_x = coords.x;
                     to.m_y = coords.y;
 
-//                    LV_LOG_WARN("to:%d %d\n", to.m_x, to.m_y);
+                   LV_LOG_WARN("to:%d %d\n", to.m_x, to.m_y);
 
                     return 1;
                 } else {

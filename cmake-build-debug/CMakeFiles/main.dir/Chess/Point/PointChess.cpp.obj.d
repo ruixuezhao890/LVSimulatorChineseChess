@@ -1,6 +1,6 @@
 CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj: \
  D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\Point\PointChess.cpp \
- D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/Point/PointChess.h \
+ D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\Point\PointChess.h \
  D:/MinGw8.1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/cstdint \
  D:/MinGw8.1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  D:/MinGw8.1/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \

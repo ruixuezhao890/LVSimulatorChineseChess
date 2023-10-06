@@ -19,15 +19,15 @@ Cannon::Cannon(const PointChess &point, bool color, ChessBoard &chessboard) : Ch
 }
 
 bool Cannon::CanMoveTo(const PointChess &point) const {
-    if (board.GetChessBoard(point) == nullptr) {//Ä¿µÄµØÃ»ÓĞÆå×Ó
-        if (point.m_x == m_point.m_x) {//ÅĞ¶Ï×İÖáÔÚÆå×ÓÓëÄ¿µÄµØÖ®¼äÊÇ·ñÓĞÆå×Ó
-            if (point.m_y < m_point.m_y) {//Èç¹ûÄ¿µÄµØy×ø±êĞ¡ÓÚÆå×Ó×ø±ê
+    if (board.GetChessBoard(point) == nullptr) {//ç›®çš„åœ°æ²¡æœ‰æ£‹å­
+        if (point.m_x == m_point.m_x) {//åˆ¤æ–­çºµè½´åœ¨æ£‹å­ä¸ç›®çš„åœ°ä¹‹é—´æ˜¯å¦æœ‰æ£‹å­
+            if (point.m_y < m_point.m_y) {//å¦‚æœç›®çš„åœ°yåæ ‡å°äºæ£‹å­åæ ‡
                 for (uint8_t i = point.m_y + 1; i < m_point.m_y; i++) {
                     if (board.GetChessBoard(point.m_x, i)) {
                         return false;
                     }
                 }
-            } else if(point.m_y > m_point.m_y){//Èç¹ûÄ¿µÄµØy×ø±ê´óÓÚÆå×Ó×ø±ê
+            } else if(point.m_y > m_point.m_y){//å¦‚æœç›®çš„åœ°yåæ ‡å¤§äºæ£‹å­åæ ‡
                 for (uint8_t i = m_point.m_y + 1; i < point.m_y; ++i) {
                     if (board.GetChessBoard(point.m_x, i)) {
                         return false;
@@ -35,7 +35,7 @@ bool Cannon::CanMoveTo(const PointChess &point) const {
                 }
             }
             return true;
-        } else if (point.m_y == m_point.m_y) {//ÅĞ¶ÏÆå×ÓµÄºá×ø±êÓëÄ¿µÄµØÖ®¼äÊÇ·ñ´æÔÚÆå×Ó
+        } else if (point.m_y == m_point.m_y) {//åˆ¤æ–­æ£‹å­çš„æ¨ªåæ ‡ä¸ç›®çš„åœ°ä¹‹é—´æ˜¯å¦å­˜åœ¨æ£‹å­
             if (point.m_x < m_point.m_x) {
                 for (uint8_t i = point.m_x + 1; i < m_point.m_x; i++) {
                     if (board.GetChessBoard(i, point.m_y)) {
@@ -53,16 +53,16 @@ bool Cannon::CanMoveTo(const PointChess &point) const {
             return true;
         }
         return false;
-    }else if (board.GetChessBoard(point)->ChessColor != this->ChessColor) {//³Ô×Ó
+    }else if (board.GetChessBoard(point)->ChessColor != this->ChessColor) {//åƒå­
             uint8_t count = 0;
-            if (point.m_x == m_point.m_x) {//ÅĞ¶Ï×İÖáÔÚÆå×ÓÓëÄ¿µÄµØÖ®¼äÊÇ·ñÓĞÆå×Ó
-                if (point.m_y < m_point.m_y) {//Èç¹ûÄ¿µÄµØy×ø±êĞ¡ÓÚÆå×Ó×ø±ê
+            if (point.m_x == m_point.m_x) {//åˆ¤æ–­çºµè½´åœ¨æ£‹å­ä¸ç›®çš„åœ°ä¹‹é—´æ˜¯å¦æœ‰æ£‹å­
+                if (point.m_y < m_point.m_y) {//å¦‚æœç›®çš„åœ°yåæ ‡å°äºæ£‹å­åæ ‡
                     for (uint8_t i = point.m_y + 1; i < m_point.m_y; i++) {
                         if (board.GetChessBoard(point.m_x, i)) {
                             count++;
                         }
                     }
-                } else {//Èç¹ûÄ¿µÄµØy×ø±ê´óÓÚÆå×Ó×ø±ê
+                } else {//å¦‚æœç›®çš„åœ°yåæ ‡å¤§äºæ£‹å­åæ ‡
                     for (uint8_t i = m_point.m_y + 1; i < point.m_y; ++i) {
                         if (board.GetChessBoard(point.m_x, i)) {
                             count++;
@@ -70,7 +70,7 @@ bool Cannon::CanMoveTo(const PointChess &point) const {
                     }
                 }
                 return true;
-            } else if (point.m_y == m_point.m_y) {//ÅĞ¶ÏÆå×ÓµÄºá×ø±êÓëÄ¿µÄµØÖ®¼äÊÇ·ñ´æÔÚÆå×Ó
+            } else if (point.m_y == m_point.m_y) {//åˆ¤æ–­æ£‹å­çš„æ¨ªåæ ‡ä¸ç›®çš„åœ°ä¹‹é—´æ˜¯å¦å­˜åœ¨æ£‹å­
                 if (point.m_x < m_point.m_x) {
                     for (uint8_t i = point.m_x + 1; i < m_point.m_x; i++) {
                         if (board.GetChessBoard(i, point.m_y)) {
@@ -95,8 +95,8 @@ bool Cannon::CanMoveTo(const PointChess &point) const {
     return false;
 }
 
-const char *Cannon::GetName() const {
-    return "ÅÚ";
+const char * Cannon::GetName() const {
+    return "ç‚®";
 }
 
 const bool Cannon::CanCrossTheRiver() const {

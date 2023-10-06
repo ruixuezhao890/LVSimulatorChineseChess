@@ -16,8 +16,9 @@
 #define CPROJECT_POINTCHESS_H
 #include <cstdint>
 
-const bool BLACK = 0, RED = 1;
-const uint8_t NONE = 2;
+extern const bool BLACK;
+extern const bool RED;
+extern const uint8_t NONE;
 
 class PointChess {
 public:
@@ -36,6 +37,7 @@ public:
 
 
 };
+bool operator==(const PointChess& a, const PointChess& b);
 
 
 

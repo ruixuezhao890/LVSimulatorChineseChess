@@ -401,4 +401,8 @@ CMakeFiles/main.dir/Chess/ChessBoard/ChessBoard.cpp.obj: \
  D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Rook.h \
  D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/ChessPiece.h \
  D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Horse.h \
- D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Cannon.h
+ D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Cannon.h \
+ D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Elephant.h \
+ D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/King.h \
+ D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Adviser.h \
+ D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Pawn.h

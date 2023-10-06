@@ -22,10 +22,14 @@ using namespace lvgl::widgets;
 
 void arc_1() {
   static auto button=Button(scr_act());
-  button.set_size(30,30);
+  static auto label=Label(button);
+  label.set_style_text_font(&myFont,LV_STATE_DEFAULT);
+  label.set_text("兵");
+  label.center();
+  button.set_size(60,60);
 //  button.set_style_radius(LV_PCT(30),LV_PART_MAIN);
   button.set_pos(60,60);
-//  button.center();
+     button.center();
 }
 
 void MyMain(){
@@ -33,7 +37,7 @@ void MyMain(){
     RunTimer runtimer(10);
     runtimer.set_callback();
 
-
+//    arc_1();
 
 for(;;){
 

@@ -17,10 +17,12 @@
 
 #include "Chess/ChessBoard/ChessBoard.h"
 #include "Chess/ChessPhysicalCoordinates/ChessPhysicalCoordinates.h"
-
+using namespace std;
 class ChessBoard;
 class ChessPiece {
 protected:
+//    Style* m_style;
+    Arc* m_arc;
     Button* m_button;
     Label* m_label;
     PointChess m_point;
@@ -31,19 +33,19 @@ public:
     const PointChess& GetPoint();
 //    virtual void Draw()=0;
     virtual bool CanMoveTo(const PointChess& point)const=0;
-    virtual const char *GetName()const=0;
+    virtual const char * GetName()const=0;
     virtual const bool CanCrossTheRiver()const=0;
 //    virtual void DeleteButton()=0;
     void DeleteButton();
-    void GreatButton();
+//    void GreatButton();
     bool MoveTo(const PointChess &point);
     void Draw();
-    void Draw(const PointChess& point);
+//    void Draw(const PointChess& point);
 
 
 
     PhysicalPoint getScreenPixelsXY();
-
+    void StyleInit();
 
 
 };

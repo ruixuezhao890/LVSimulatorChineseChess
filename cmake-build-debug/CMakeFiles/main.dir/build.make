@@ -158,11 +158,26 @@ CMakeFiles/main.dir/Chess/ChessPhysicalCoordinates/SDLCOOr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/Chess/ChessPhysicalCoordinates/SDLCOOr.cpp.s"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPhysicalCoordinates\SDLCOOr.cpp -o CMakeFiles\main.dir\Chess\ChessPhysicalCoordinates\SDLCOOr.cpp.s
 
+CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Adviser.cpp
+CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj -MF CMakeFiles\main.dir\Chess\ChessPiece\Adviser.cpp.obj.d -o CMakeFiles\main.dir\Chess\ChessPiece\Adviser.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Adviser.cpp
+
+CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.i"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Adviser.cpp > CMakeFiles\main.dir\Chess\ChessPiece\Adviser.cpp.i
+
+CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.s"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Adviser.cpp -o CMakeFiles\main.dir\Chess\ChessPiece\Adviser.cpp.s
+
 CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Cannon.cpp
 CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj -MF CMakeFiles\main.dir\Chess\ChessPiece\Cannon.cpp.obj.d -o CMakeFiles\main.dir\Chess\ChessPiece\Cannon.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Cannon.cpp
 
 CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.i: cmake_force
@@ -177,7 +192,7 @@ CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/ChessPiece.cpp
 CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj -MF CMakeFiles\main.dir\Chess\ChessPiece\ChessPiece.cpp.obj.d -o CMakeFiles\main.dir\Chess\ChessPiece\ChessPiece.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\ChessPiece.cpp
 
 CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.i: cmake_force
@@ -188,11 +203,26 @@ CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.s"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\ChessPiece.cpp -o CMakeFiles\main.dir\Chess\ChessPiece\ChessPiece.cpp.s
 
+CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Elephant.cpp
+CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj -MF CMakeFiles\main.dir\Chess\ChessPiece\Elephant.cpp.obj.d -o CMakeFiles\main.dir\Chess\ChessPiece\Elephant.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Elephant.cpp
+
+CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.i"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Elephant.cpp > CMakeFiles\main.dir\Chess\ChessPiece\Elephant.cpp.i
+
+CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.s"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Elephant.cpp -o CMakeFiles\main.dir\Chess\ChessPiece\Elephant.cpp.s
+
 CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Horse.cpp
 CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj -MF CMakeFiles\main.dir\Chess\ChessPiece\Horse.cpp.obj.d -o CMakeFiles\main.dir\Chess\ChessPiece\Horse.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Horse.cpp
 
 CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.i: cmake_force
@@ -203,11 +233,41 @@ CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.s"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Horse.cpp -o CMakeFiles\main.dir\Chess\ChessPiece\Horse.cpp.s
 
+CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/King.cpp
+CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj -MF CMakeFiles\main.dir\Chess\ChessPiece\King.cpp.obj.d -o CMakeFiles\main.dir\Chess\ChessPiece\King.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\King.cpp
+
+CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.i"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\King.cpp > CMakeFiles\main.dir\Chess\ChessPiece\King.cpp.i
+
+CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.s"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\King.cpp -o CMakeFiles\main.dir\Chess\ChessPiece\King.cpp.s
+
+CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
+CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Pawn.cpp
+CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj -MF CMakeFiles\main.dir\Chess\ChessPiece\Pawn.cpp.obj.d -o CMakeFiles\main.dir\Chess\ChessPiece\Pawn.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Pawn.cpp
+
+CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.i"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Pawn.cpp > CMakeFiles\main.dir\Chess\ChessPiece\Pawn.cpp.i
+
+CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.s"
+	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Pawn.cpp -o CMakeFiles\main.dir\Chess\ChessPiece\Pawn.cpp.s
+
 CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/Rook.cpp
 CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj -MF CMakeFiles\main.dir\Chess\ChessPiece\Rook.cpp.obj.d -o CMakeFiles\main.dir\Chess\ChessPiece\Rook.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\ChessPiece\Rook.cpp
 
 CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.i: cmake_force
@@ -222,7 +282,7 @@ CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj: CMakeFiles/main.dir/flags.ma
 CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/Point/PointChess.cpp
 CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj -MF CMakeFiles\main.dir\Chess\Point\PointChess.cpp.obj.d -o CMakeFiles\main.dir\Chess\Point\PointChess.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\Chess\Point\PointChess.cpp
 
 CMakeFiles/main.dir/Chess/Point/PointChess.cpp.i: cmake_force
@@ -237,7 +297,7 @@ CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/ConnectingBridge/Src/Startup.cpp
 CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj -MF CMakeFiles\main.dir\ConnectingBridge\Src\Startup.cpp.obj.d -o CMakeFiles\main.dir\ConnectingBridge\Src\Startup.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\ConnectingBridge\Src\Startup.cpp
 
 CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.i: cmake_force
@@ -252,7 +312,7 @@ CMakeFiles/main.dir/LVpp/LVpp.cpp.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/LVpp/LVpp.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/LVpp/LVpp.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/LVpp/LVpp.cpp
 CMakeFiles/main.dir/LVpp/LVpp.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/main.dir/LVpp/LVpp.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/main.dir/LVpp/LVpp.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/LVpp/LVpp.cpp.obj -MF CMakeFiles\main.dir\LVpp\LVpp.cpp.obj.d -o CMakeFiles\main.dir\LVpp\LVpp.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\LVpp\LVpp.cpp
 
 CMakeFiles/main.dir/LVpp/LVpp.cpp.i: cmake_force
@@ -267,7 +327,7 @@ CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/GC9A01.c
 CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\GC9A01.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\GC9A01.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\GC9A01.c
 
 CMakeFiles/main.dir/lv_drivers/display/GC9A01.c.i: cmake_force
@@ -282,7 +342,7 @@ CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/ILI9341.c
 CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\ILI9341.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\ILI9341.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\ILI9341.c
 
 CMakeFiles/main.dir/lv_drivers/display/ILI9341.c.i: cmake_force
@@ -297,7 +357,7 @@ CMakeFiles/main.dir/lv_drivers/display/R61581.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lv_drivers/display/R61581.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/R61581.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/R61581.c
 CMakeFiles/main.dir/lv_drivers/display/R61581.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/main.dir/lv_drivers/display/R61581.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/main.dir/lv_drivers/display/R61581.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/R61581.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\R61581.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\R61581.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\R61581.c
 
 CMakeFiles/main.dir/lv_drivers/display/R61581.c.i: cmake_force
@@ -312,7 +372,7 @@ CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.obj: CMakeFiles/main.dir/flag
 CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/SHARP_MIP.c
 CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\SHARP_MIP.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\SHARP_MIP.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\SHARP_MIP.c
 
 CMakeFiles/main.dir/lv_drivers/display/SHARP_MIP.c.i: cmake_force
@@ -327,7 +387,7 @@ CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/SSD1963.c
 CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\SSD1963.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\SSD1963.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\SSD1963.c
 
 CMakeFiles/main.dir/lv_drivers/display/SSD1963.c.i: cmake_force
@@ -342,7 +402,7 @@ CMakeFiles/main.dir/lv_drivers/display/ST7565.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lv_drivers/display/ST7565.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/ST7565.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/ST7565.c
 CMakeFiles/main.dir/lv_drivers/display/ST7565.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/main.dir/lv_drivers/display/ST7565.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/main.dir/lv_drivers/display/ST7565.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/ST7565.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\ST7565.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\ST7565.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\ST7565.c
 
 CMakeFiles/main.dir/lv_drivers/display/ST7565.c.i: cmake_force
@@ -357,7 +417,7 @@ CMakeFiles/main.dir/lv_drivers/display/UC1610.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lv_drivers/display/UC1610.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/UC1610.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/UC1610.c
 CMakeFiles/main.dir/lv_drivers/display/UC1610.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/main.dir/lv_drivers/display/UC1610.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/main.dir/lv_drivers/display/UC1610.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/UC1610.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\UC1610.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\UC1610.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\UC1610.c
 
 CMakeFiles/main.dir/lv_drivers/display/UC1610.c.i: cmake_force
@@ -372,7 +432,7 @@ CMakeFiles/main.dir/lv_drivers/display/drm.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lv_drivers/display/drm.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/drm.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/drm.c
 CMakeFiles/main.dir/lv_drivers/display/drm.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/main.dir/lv_drivers/display/drm.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/main.dir/lv_drivers/display/drm.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/drm.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\drm.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\drm.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\drm.c
 
 CMakeFiles/main.dir/lv_drivers/display/drm.c.i: cmake_force
@@ -387,7 +447,7 @@ CMakeFiles/main.dir/lv_drivers/display/fbdev.c.obj: CMakeFiles/main.dir/flags.ma
 CMakeFiles/main.dir/lv_drivers/display/fbdev.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/display/fbdev.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/display/fbdev.c
 CMakeFiles/main.dir/lv_drivers/display/fbdev.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/main.dir/lv_drivers/display/fbdev.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/main.dir/lv_drivers/display/fbdev.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/display/fbdev.c.obj -MF CMakeFiles\main.dir\lv_drivers\display\fbdev.c.obj.d -o CMakeFiles\main.dir\lv_drivers\display\fbdev.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\display\fbdev.c
 
 CMakeFiles/main.dir/lv_drivers/display/fbdev.c.i: cmake_force
@@ -402,7 +462,7 @@ CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.obj: CMakeFiles/main.dir/flags.ma
 CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/gtkdrv/gtkdrv.c
 CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.obj -MF CMakeFiles\main.dir\lv_drivers\gtkdrv\gtkdrv.c.obj.d -o CMakeFiles\main.dir\lv_drivers\gtkdrv\gtkdrv.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\gtkdrv\gtkdrv.c
 
 CMakeFiles/main.dir/lv_drivers/gtkdrv/gtkdrv.c.i: cmake_force
@@ -417,7 +477,7 @@ CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/AD_touch.c
 CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.obj -MF CMakeFiles\main.dir\lv_drivers\indev\AD_touch.c.obj.d -o CMakeFiles\main.dir\lv_drivers\indev\AD_touch.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\indev\AD_touch.c
 
 CMakeFiles/main.dir/lv_drivers/indev/AD_touch.c.i: cmake_force
@@ -432,7 +492,7 @@ CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/FT5406EE8.c
 CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.obj -MF CMakeFiles\main.dir\lv_drivers\indev\FT5406EE8.c.obj.d -o CMakeFiles\main.dir\lv_drivers\indev\FT5406EE8.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\indev\FT5406EE8.c
 
 CMakeFiles/main.dir/lv_drivers/indev/FT5406EE8.c.i: cmake_force
@@ -447,7 +507,7 @@ CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.obj: CMakeFiles/main.dir/flags.ma
 CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/XPT2046.c
 CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.obj -MF CMakeFiles\main.dir\lv_drivers\indev\XPT2046.c.obj.d -o CMakeFiles\main.dir\lv_drivers\indev\XPT2046.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\indev\XPT2046.c
 
 CMakeFiles/main.dir/lv_drivers/indev/XPT2046.c.i: cmake_force
@@ -462,7 +522,7 @@ CMakeFiles/main.dir/lv_drivers/indev/evdev.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lv_drivers/indev/evdev.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/indev/evdev.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/evdev.c
 CMakeFiles/main.dir/lv_drivers/indev/evdev.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/main.dir/lv_drivers/indev/evdev.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/main.dir/lv_drivers/indev/evdev.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/indev/evdev.c.obj -MF CMakeFiles\main.dir\lv_drivers\indev\evdev.c.obj.d -o CMakeFiles\main.dir\lv_drivers\indev\evdev.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\indev\evdev.c
 
 CMakeFiles/main.dir/lv_drivers/indev/evdev.c.i: cmake_force
@@ -477,7 +537,7 @@ CMakeFiles/main.dir/lv_drivers/indev/libinput.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lv_drivers/indev/libinput.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/indev/libinput.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/libinput.c
 CMakeFiles/main.dir/lv_drivers/indev/libinput.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/main.dir/lv_drivers/indev/libinput.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/main.dir/lv_drivers/indev/libinput.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/indev/libinput.c.obj -MF CMakeFiles\main.dir\lv_drivers\indev\libinput.c.obj.d -o CMakeFiles\main.dir\lv_drivers\indev\libinput.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\indev\libinput.c
 
 CMakeFiles/main.dir/lv_drivers/indev/libinput.c.i: cmake_force
@@ -492,7 +552,7 @@ CMakeFiles/main.dir/lv_drivers/indev/xkb.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lv_drivers/indev/xkb.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/indev/xkb.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/indev/xkb.c
 CMakeFiles/main.dir/lv_drivers/indev/xkb.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/main.dir/lv_drivers/indev/xkb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/main.dir/lv_drivers/indev/xkb.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/indev/xkb.c.obj -MF CMakeFiles\main.dir\lv_drivers\indev\xkb.c.obj.d -o CMakeFiles\main.dir\lv_drivers\indev\xkb.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\indev\xkb.c
 
 CMakeFiles/main.dir/lv_drivers/indev/xkb.c.i: cmake_force
@@ -507,7 +567,7 @@ CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/sdl/sdl.c
 CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.obj -MF CMakeFiles\main.dir\lv_drivers\sdl\sdl.c.obj.d -o CMakeFiles\main.dir\lv_drivers\sdl\sdl.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\sdl\sdl.c
 
 CMakeFiles/main.dir/lv_drivers/sdl/sdl.c.i: cmake_force
@@ -522,7 +582,7 @@ CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/sdl/sdl_common.c
 CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.obj -MF CMakeFiles\main.dir\lv_drivers\sdl\sdl_common.c.obj.d -o CMakeFiles\main.dir\lv_drivers\sdl\sdl_common.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\sdl\sdl_common.c
 
 CMakeFiles/main.dir/lv_drivers/sdl/sdl_common.c.i: cmake_force
@@ -537,7 +597,7 @@ CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/sdl/sdl_gpu.c
 CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.obj -MF CMakeFiles\main.dir\lv_drivers\sdl\sdl_gpu.c.obj.d -o CMakeFiles\main.dir\lv_drivers\sdl\sdl_gpu.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\sdl\sdl_gpu.c
 
 CMakeFiles/main.dir/lv_drivers/sdl/sdl_gpu.c.i: cmake_force
@@ -552,7 +612,7 @@ CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/wayland/wayland.c
 CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.obj -MF CMakeFiles\main.dir\lv_drivers\wayland\wayland.c.obj.d -o CMakeFiles\main.dir\lv_drivers\wayland\wayland.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\wayland\wayland.c
 
 CMakeFiles/main.dir/lv_drivers/wayland/wayland.c.i: cmake_force
@@ -567,7 +627,7 @@ CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.obj: CMakeFiles/main.dir/flag
 CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/win32drv/win32drv.c
 CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.obj -MF CMakeFiles\main.dir\lv_drivers\win32drv\win32drv.c.obj.d -o CMakeFiles\main.dir\lv_drivers\win32drv\win32drv.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\win32drv\win32drv.c
 
 CMakeFiles/main.dir/lv_drivers/win32drv/win32drv.c.i: cmake_force
@@ -582,7 +642,7 @@ CMakeFiles/main.dir/lv_drivers/win_drv.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lv_drivers/win_drv.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lv_drivers/win_drv.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/win_drv.c
 CMakeFiles/main.dir/lv_drivers/win_drv.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/main.dir/lv_drivers/win_drv.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/main.dir/lv_drivers/win_drv.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lv_drivers/win_drv.c.obj -MF CMakeFiles\main.dir\lv_drivers\win_drv.c.obj.d -o CMakeFiles\main.dir\lv_drivers\win_drv.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lv_drivers\win_drv.c
 
 CMakeFiles/main.dir/lv_drivers/win_drv.c.i: cmake_force
@@ -597,7 +657,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_alpha16.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_alpha16.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_alpha16.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_alpha16.c.i: cmake_force
@@ -612,7 +672,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.ob
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_argb.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_argb.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_argb.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_argb.c.i: cmake_force
@@ -627,7 +687,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_ke
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_chroma_keyed.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_chroma_keyed.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_chroma_keyed.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_chroma_keyed.c.i: cmake_force
@@ -642,7 +702,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_indexed16.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_indexed16.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_indexed16.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_indexed16.c.i: cmake_force
@@ -657,7 +717,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.obj
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_rgb.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_rgb.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_rgb.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb.c.i: cmake_force
@@ -672,7 +732,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_rgb565a8.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_rgb565a8.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\img_benchmark_cogwheel_rgb565a8.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/img_benchmark_cogwheel_rgb565a8.c.i: cmake_force
@@ -687,7 +747,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_12_compr_az.c.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_12_compr_az.c.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_12_compr_az.c.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_12_compr_az.c.c.i: cmake_force
@@ -702,7 +762,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_16_compr_az.c.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_16_compr_az.c.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_16_compr_az.c.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_16_compr_az.c.c.i: cmake_force
@@ -717,7 +777,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_28_compr_az.c.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_28_compr_az.c.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\assets\lv_font_bechmark_montserrat_28_compr_az.c.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/assets/lv_font_bechmark_montserrat_28_compr_az.c.c.i: cmake_force
@@ -732,7 +792,7 @@ CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.obj: CMakeFiles/mai
 CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/benchmark/lv_demo_benchmark.c
 CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.obj -MF CMakeFiles\main.dir\lvgl\demos\benchmark\lv_demo_benchmark.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\benchmark\lv_demo_benchmark.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\benchmark\lv_demo_benchmark.c
 
 CMakeFiles/main.dir/lvgl/demos/benchmark/lv_demo_benchmark.c.i: cmake_force
@@ -747,7 +807,7 @@ CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.obj: CMak
 CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c
 CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building C object CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.obj -MF CMakeFiles\main.dir\lvgl\demos\keypad_encoder\lv_demo_keypad_encoder.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\keypad_encoder\lv_demo_keypad_encoder.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\keypad_encoder\lv_demo_keypad_encoder.c
 
 CMakeFiles/main.dir/lvgl/demos/keypad_encoder/lv_demo_keypad_encoder.c.i: cmake_force
@@ -762,7 +822,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_corner_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_corner_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_corner_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_corner_large.c.i: cmake_force
@@ -777,7 +837,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.o
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_list_pause.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_list_pause.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_list_pause.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause.c.i: cmake_force
@@ -792,7 +852,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_lar
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_list_pause_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_list_pause_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_list_pause_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_pause_large.c.i: cmake_force
@@ -807,7 +867,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.ob
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_list_play.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_list_play.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_list_play.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play.c.i: cmake_force
@@ -822,7 +882,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_larg
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_list_play_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_list_play_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_list_play_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_list_play_large.c.i: cmake_force
@@ -837,7 +897,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.obj: CM
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_loop.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_loop.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_loop.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop.c.i: cmake_force
@@ -852,7 +912,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.o
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_loop_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_loop_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_loop_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_loop_large.c.i: cmake_force
@@ -867,7 +927,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.obj: CM
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_next.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_next.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_next.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next.c.i: cmake_force
@@ -882,7 +942,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.o
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_next_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_next_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_next_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_next_large.c.i: cmake_force
@@ -897,7 +957,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.obj: C
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_pause.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_pause.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_pause.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause.c.i: cmake_force
@@ -912,7 +972,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_pause_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_pause_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_pause_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_pause_large.c.i: cmake_force
@@ -927,7 +987,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.obj: CM
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_play.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_play.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_play.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play.c.i: cmake_force
@@ -942,7 +1002,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.o
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_play_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_play_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_play_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_play_large.c.i: cmake_force
@@ -957,7 +1017,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.obj: CM
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_prev.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_prev.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_prev.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev.c.i: cmake_force
@@ -972,7 +1032,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.o
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_prev_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_prev_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_prev_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_prev_large.c.i: cmake_force
@@ -987,7 +1047,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.obj: CMa
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_rnd.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_rnd.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_rnd.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd.c.i: cmake_force
@@ -1002,7 +1062,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.ob
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_rnd_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_btn_rnd_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_btn_rnd_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_btn_rnd_large.c.i: cmake_force
@@ -1017,7 +1077,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.obj:
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_corner_left.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_corner_left.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_corner_left.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left.c.i: cmake_force
@@ -1032,7 +1092,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_corner_left_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_corner_left_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_corner_left_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_left_large.c.i: cmake_force
@@ -1047,7 +1107,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.obj
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_corner_right.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_corner_right.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_corner_right.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right.c.i: cmake_force
@@ -1062,7 +1122,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_corner_right_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_corner_right_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_corner_right_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_corner_right_large.c.i: cmake_force
@@ -1077,7 +1137,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.obj: CMa
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_1.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_1.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_cover_1.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1.c.i: cmake_force
@@ -1092,7 +1152,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.ob
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_1_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_1_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_cover_1_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_1_large.c.i: cmake_force
@@ -1107,7 +1167,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.obj: CMa
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_2.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_2.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_cover_2.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2.c.i: cmake_force
@@ -1122,7 +1182,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.ob
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_2_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_2_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_cover_2_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_2_large.c.i: cmake_force
@@ -1137,7 +1197,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.obj: CMa
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_3.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_3.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_cover_3.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3.c.i: cmake_force
@@ -1152,7 +1212,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.ob
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_3_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_cover_3_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_cover_3_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_cover_3_large.c.i: cmake_force
@@ -1167,7 +1227,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.obj: CMak
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_1.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_1.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_icon_1.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1.c.i: cmake_force
@@ -1182,7 +1242,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.obj
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_1_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_1_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_icon_1_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_1_large.c.i: cmake_force
@@ -1197,7 +1257,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.obj: CMak
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_2.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_2.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_icon_2.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2.c.i: cmake_force
@@ -1212,7 +1272,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.obj
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_2_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_2_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_icon_2_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_2_large.c.i: cmake_force
@@ -1227,7 +1287,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.obj: CMak
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_3.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_3.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_icon_3.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3.c.i: cmake_force
@@ -1242,7 +1302,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.obj
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_3_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_3_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_icon_3_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_3_large.c.i: cmake_force
@@ -1257,7 +1317,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.obj: CMak
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_4.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_4.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_icon_4.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4.c.i: cmake_force
@@ -1272,7 +1332,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.obj
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_4_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_icon_4_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_icon_4_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_icon_4_large.c.i: cmake_force
@@ -1287,7 +1347,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.obj:
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_list_border.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_list_border.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_list_border.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_list_border.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border.c.i: cmake_force
@@ -1302,7 +1362,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_list_border_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_list_border_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_list_border_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_list_border_large.c.i: cmake_force
@@ -1317,7 +1377,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.obj: CMakeF
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_logo.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_logo.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_logo.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_logo.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_logo.c.i: cmake_force
@@ -1332,7 +1392,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.obj:
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_slider_knob.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_slider_knob.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_slider_knob.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob.c.i: cmake_force
@@ -1347,7 +1407,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_slider_knob_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_slider_knob_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_slider_knob_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_slider_knob_large.c.i: cmake_force
@@ -1362,7 +1422,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.obj:
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_wave_bottom.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_wave_bottom.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_wave_bottom.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom.c.i: cmake_force
@@ -1377,7 +1437,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_wave_bottom_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_wave_bottom_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_wave_bottom_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_bottom_large.c.i: cmake_force
@@ -1392,7 +1452,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.obj: CM
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_wave_top.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_wave_top.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_wave_top.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top.c.i: cmake_force
@@ -1407,7 +1467,7 @@ CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.o
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_wave_top_large.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\assets\img_lv_demo_music_wave_top_large.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\assets\img_lv_demo_music_wave_top_large.c
 
 CMakeFiles/main.dir/lvgl/demos/music/assets/img_lv_demo_music_wave_top_large.c.i: cmake_force
@@ -1422,7 +1482,7 @@ CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/lv_demo_music.c
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\lv_demo_music.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\lv_demo_music.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\lv_demo_music.c
 
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music.c.i: cmake_force
@@ -1437,7 +1497,7 @@ CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/lv_demo_music_list.c
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\lv_demo_music_list.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\lv_demo_music_list.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\lv_demo_music_list.c
 
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_list.c.i: cmake_force
@@ -1452,7 +1512,7 @@ CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/music/lv_demo_music_main.c
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.obj -MF CMakeFiles\main.dir\lvgl\demos\music\lv_demo_music_main.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\music\lv_demo_music_main.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\music\lv_demo_music_main.c
 
 CMakeFiles/main.dir/lvgl/demos/music/lv_demo_music_main.c.i: cmake_force
@@ -1467,7 +1527,7 @@ CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.obj: CMakeFiles/main.dir/
 CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/stress/lv_demo_stress.c
 CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.obj -MF CMakeFiles\main.dir\lvgl\demos\stress\lv_demo_stress.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\stress\lv_demo_stress.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\stress\lv_demo_stress.c
 
 CMakeFiles/main.dir/lvgl/demos/stress/lv_demo_stress.c.i: cmake_force
@@ -1482,7 +1542,7 @@ CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/widgets/assets/img_clothes.c
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.obj -MF CMakeFiles\main.dir\lvgl\demos\widgets\assets\img_clothes.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\widgets\assets\img_clothes.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\widgets\assets\img_clothes.c
 
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_clothes.c.i: cmake_force
@@ -1497,7 +1557,7 @@ CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.obj: CMa
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.obj -MF CMakeFiles\main.dir\lvgl\demos\widgets\assets\img_demo_widgets_avatar.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\widgets\assets\img_demo_widgets_avatar.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\widgets\assets\img_demo_widgets_avatar.c
 
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_demo_widgets_avatar.c.i: cmake_force
@@ -1512,7 +1572,7 @@ CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/widgets/assets/img_lvgl_logo.c
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.obj -MF CMakeFiles\main.dir\lvgl\demos\widgets\assets\img_lvgl_logo.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\widgets\assets\img_lvgl_logo.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\widgets\assets\img_lvgl_logo.c
 
 CMakeFiles/main.dir/lvgl/demos/widgets/assets/img_lvgl_logo.c.i: cmake_force
@@ -1527,7 +1587,7 @@ CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.obj: CMakeFiles/main.di
 CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/demos/widgets/lv_demo_widgets.c
 CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.obj -MF CMakeFiles\main.dir\lvgl\demos\widgets\lv_demo_widgets.c.obj.d -o CMakeFiles\main.dir\lvgl\demos\widgets\lv_demo_widgets.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\demos\widgets\lv_demo_widgets.c
 
 CMakeFiles/main.dir/lvgl/demos/widgets/lv_demo_widgets.c.i: cmake_force
@@ -1542,7 +1602,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_disp.c
 CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_disp.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_disp.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_disp.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_disp.c.i: cmake_force
@@ -1557,7 +1617,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_event.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/core/lv_event.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_event.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_event.c
 CMakeFiles/main.dir/lvgl/src/core/lv_event.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_event.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_event.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_event.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_event.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_event.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_event.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_event.c.i: cmake_force
@@ -1572,7 +1632,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_group.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/core/lv_group.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_group.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_group.c
 CMakeFiles/main.dir/lvgl/src/core/lv_group.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_group.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_group.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_group.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_group.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_group.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_group.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_group.c.i: cmake_force
@@ -1587,7 +1647,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_indev.c
 CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_indev.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_indev.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_indev.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_indev.c.i: cmake_force
@@ -1602,7 +1662,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_indev_scroll.c
 CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_indev_scroll.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_indev_scroll.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_indev_scroll.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_indev_scroll.c.i: cmake_force
@@ -1617,7 +1677,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj.c
 CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_obj.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_obj.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_obj.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_obj.c.i: cmake_force
@@ -1632,7 +1692,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_class.c
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_obj_class.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_obj_class.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_obj_class.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_class.c.i: cmake_force
@@ -1647,7 +1707,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_draw.c
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_obj_draw.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_obj_draw.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_obj_draw.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_draw.c.i: cmake_force
@@ -1662,7 +1722,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.obj: CMakeFiles/main.dir/flags.ma
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_pos.c
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_obj_pos.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_obj_pos.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_obj_pos.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_pos.c.i: cmake_force
@@ -1677,7 +1737,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.obj: CMakeFiles/main.dir/flags
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_scroll.c
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_obj_scroll.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_obj_scroll.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_obj_scroll.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_scroll.c.i: cmake_force
@@ -1692,7 +1752,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_style.c
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_obj_style.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_obj_style.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_obj_style.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_style.c.i: cmake_force
@@ -1707,7 +1767,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_style_gen.c
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_obj_style_gen.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_obj_style_gen.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_obj_style_gen.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_style_gen.c.i: cmake_force
@@ -1722,7 +1782,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_obj_tree.c
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_obj_tree.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_obj_tree.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_obj_tree.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_obj_tree.c.i: cmake_force
@@ -1737,7 +1797,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_refr.c
 CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_refr.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_refr.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_refr.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_refr.c.i: cmake_force
@@ -1752,7 +1812,7 @@ CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/core/lv_theme.c
 CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.obj -MF CMakeFiles\main.dir\lvgl\src\core\lv_theme.c.obj.d -o CMakeFiles\main.dir\lvgl\src\core\lv_theme.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\core\lv_theme.c
 
 CMakeFiles/main.dir/lvgl/src/core/lv_theme.c.i: cmake_force
@@ -1767,7 +1827,7 @@ CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.obj: CMakeFiles/main.dir/
 CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/arm2d/lv_gpu_arm2d.c
 CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building C object CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\arm2d\lv_gpu_arm2d.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\arm2d\lv_gpu_arm2d.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\arm2d\lv_gpu_arm2d.c
 
 CMakeFiles/main.dir/lvgl/src/draw/arm2d/lv_gpu_arm2d.c.i: cmake_force
@@ -1782,7 +1842,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw.c.i: cmake_force
@@ -1797,7 +1857,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_arc.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_arc.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_arc.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_arc.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_arc.c.i: cmake_force
@@ -1812,7 +1872,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_img.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_img.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_img.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_img.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_img.c.i: cmake_force
@@ -1827,7 +1887,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.obj: CMakeFiles/main.dir/flags
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_label.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_label.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_label.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_label.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_label.c.i: cmake_force
@@ -1842,7 +1902,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.obj: CMakeFiles/main.dir/flags
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_layer.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_layer.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_layer.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_layer.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_layer.c.i: cmake_force
@@ -1857,7 +1917,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_line.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_line.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_line.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_line.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_line.c.i: cmake_force
@@ -1872,7 +1932,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_mask.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_mask.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_mask.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_mask.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_mask.c.i: cmake_force
@@ -1887,7 +1947,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_rect.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_rect.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_rect.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_rect.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_rect.c.i: cmake_force
@@ -1902,7 +1962,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.obj: CMakeFiles/main.dir/f
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_transform.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_transform.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_transform.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_transform.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_transform.c.i: cmake_force
@@ -1917,7 +1977,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_draw_triangle.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_draw_triangle.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_draw_triangle.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_draw_triangle.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_draw_triangle.c.i: cmake_force
@@ -1932,7 +1992,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.obj: CMakeFiles/main.dir/flags.ma
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_img_buf.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_img_buf.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_img_buf.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_img_buf.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_buf.c.i: cmake_force
@@ -1947,7 +2007,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_img_cache.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_img_cache.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_img_cache.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_img_cache.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_cache.c.i: cmake_force
@@ -1962,7 +2022,7 @@ CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.obj: CMakeFiles/main.dir/flag
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/lv_img_decoder.c
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\lv_img_decoder.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\lv_img_decoder.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\lv_img_decoder.c
 
 CMakeFiles/main.dir/lvgl/src/draw/lv_img_decoder.c.i: cmake_force
@@ -1977,7 +2037,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.obj: CMakeFiles/main.dir
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\pxp\lv_draw_pxp.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\pxp\lv_draw_pxp.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\pxp\lv_draw_pxp.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp.c.i: cmake_force
@@ -1992,7 +2052,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\pxp\lv_draw_pxp_blend.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\pxp\lv_draw_pxp_blend.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\pxp\lv_draw_pxp_blend.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_draw_pxp_blend.c.i: cmake_force
@@ -2007,7 +2067,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj: CMakeFiles/main.
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\pxp\lv_gpu_nxp_pxp.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\pxp\lv_gpu_nxp_pxp.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\pxp\lv_gpu_nxp_pxp.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp.c.i: cmake_force
@@ -2022,7 +2082,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj: CMakeFiles/m
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\pxp\lv_gpu_nxp_pxp_osa.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\pxp\lv_gpu_nxp_pxp_osa.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\pxp\lv_gpu_nxp_pxp_osa.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/pxp/lv_gpu_nxp_pxp_osa.c.i: cmake_force
@@ -2037,7 +2097,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\vglite\lv_draw_vglite.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite.c.i: cmake_force
@@ -2052,7 +2112,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj: CMakeFile
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite_arc.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite_arc.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\vglite\lv_draw_vglite_arc.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_arc.c.i: cmake_force
@@ -2067,7 +2127,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj: CMakeFi
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite_blend.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite_blend.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\vglite\lv_draw_vglite_blend.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_blend.c.i: cmake_force
@@ -2082,7 +2142,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.obj: CMakeFil
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_135) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite_line.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite_line.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\vglite\lv_draw_vglite_line.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_line.c.i: cmake_force
@@ -2097,7 +2157,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj: CMakeFil
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite_rect.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_draw_vglite_rect.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\vglite\lv_draw_vglite_rect.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_draw_vglite_rect.c.i: cmake_force
@@ -2112,7 +2172,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.obj: CMakeFiles/mai
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_vglite_buf.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_vglite_buf.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\vglite\lv_vglite_buf.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_buf.c.i: cmake_force
@@ -2127,7 +2187,7 @@ CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.obj: CMakeFiles/m
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_vglite_utils.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\nxp\vglite\lv_vglite_utils.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\nxp\vglite\lv_vglite_utils.c
 
 CMakeFiles/main.dir/lvgl/src/draw/nxp/vglite/lv_vglite_utils.c.i: cmake_force
@@ -2142,7 +2202,7 @@ CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.obj: CMakeFiles
 CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c
 CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_139) "Building C object CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\renesas\lv_gpu_d2_draw_label.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\renesas\lv_gpu_d2_draw_label.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\renesas\lv_gpu_d2_draw_label.c
 
 CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_draw_label.c.i: cmake_force
@@ -2157,7 +2217,7 @@ CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c
 CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_140) "Building C object CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\renesas\lv_gpu_d2_ra6m3.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\renesas\lv_gpu_d2_ra6m3.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\renesas\lv_gpu_d2_ra6m3.c
 
 CMakeFiles/main.dir/lvgl/src/draw/renesas/lv_gpu_d2_ra6m3.c.i: cmake_force
@@ -2172,7 +2232,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_141) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl.c.i: cmake_force
@@ -2187,7 +2247,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.obj: CMakeFiles/main.dir
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_arc.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_142) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_arc.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_arc.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_arc.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_arc.c.i: cmake_force
@@ -2202,7 +2262,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.obj: CMakeFiles/main.dir/
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_bg.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_143) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_bg.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_bg.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_bg.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_bg.c.i: cmake_force
@@ -2217,7 +2277,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_composite.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_144) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_composite.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_composite.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_composite.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_composite.c.i: cmake_force
@@ -2232,7 +2292,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.obj: CMakeFiles/main.dir
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_img.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_145) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_img.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_img.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_img.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_img.c.i: cmake_force
@@ -2247,7 +2307,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_label.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_146) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_label.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_label.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_label.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_label.c.i: cmake_force
@@ -2262,7 +2322,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_layer.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_147) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_layer.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_layer.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_layer.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_layer.c.i: cmake_force
@@ -2277,7 +2337,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.obj: CMakeFiles/main.di
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_line.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_148) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_line.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_line.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_line.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_line.c.i: cmake_force
@@ -2292,7 +2352,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.obj: CMakeFiles/main.di
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_mask.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_149) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_mask.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_mask.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_mask.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_mask.c.i: cmake_force
@@ -2307,7 +2367,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_150) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_polygon.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_polygon.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_polygon.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_polygon.c.i: cmake_force
@@ -2322,7 +2382,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.obj: CMakeFiles/main.di
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_rect.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_151) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_rect.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_rect.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_rect.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_rect.c.i: cmake_force
@@ -2337,7 +2397,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj: CMakeFiles/m
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_152) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_stack_blur.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_stack_blur.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_stack_blur.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_stack_blur.c.i: cmake_force
@@ -2352,7 +2412,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj: CMakeFile
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_153) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_texture_cache.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_texture_cache.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_texture_cache.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_texture_cache.c.i: cmake_force
@@ -2367,7 +2427,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sdl/lv_draw_sdl_utils.c
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_154) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_utils.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sdl\lv_draw_sdl_utils.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sdl\lv_draw_sdl_utils.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sdl/lv_draw_sdl_utils.c.i: cmake_force
@@ -2382,7 +2442,7 @@ CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj: CMakeFil
 CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c
 CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_155) "Building C object CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\stm32_dma2d\lv_gpu_stm32_dma2d.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\stm32_dma2d\lv_gpu_stm32_dma2d.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\stm32_dma2d\lv_gpu_stm32_dma2d.c
 
 CMakeFiles/main.dir/lvgl/src/draw/stm32_dma2d/lv_gpu_stm32_dma2d.c.i: cmake_force
@@ -2397,7 +2457,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.obj: CMakeFiles/main.dir/flags
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_156) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw.c.i: cmake_force
@@ -2412,7 +2472,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.obj: CMakeFiles/main.dir/f
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_arc.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_157) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_arc.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_arc.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_arc.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_arc.c.i: cmake_force
@@ -2427,7 +2487,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.obj: CMakeFiles/main.dir
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_blend.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_158) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_blend.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_blend.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_blend.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_blend.c.i: cmake_force
@@ -2442,7 +2502,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.obj: CMakeFiles/main.di
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_dither.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_159) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_dither.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_dither.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_dither.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_dither.c.i: cmake_force
@@ -2457,7 +2517,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.obj: CMakeFiles/main.
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_gradient.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_160) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_gradient.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_gradient.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_gradient.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_gradient.c.i: cmake_force
@@ -2472,7 +2532,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.obj: CMakeFiles/main.dir/f
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_img.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_161) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_img.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_img.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_img.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_img.c.i: cmake_force
@@ -2487,7 +2547,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.obj: CMakeFiles/main.dir
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_layer.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_162) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_layer.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_layer.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_layer.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_layer.c.i: cmake_force
@@ -2502,7 +2562,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.obj: CMakeFiles/main.di
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_letter.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_163) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_letter.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_letter.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_letter.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_letter.c.i: cmake_force
@@ -2517,7 +2577,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.obj: CMakeFiles/main.dir/
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_line.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_164) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_line.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_line.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_line.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_line.c.i: cmake_force
@@ -2532,7 +2592,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_polygon.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_165) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_polygon.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_polygon.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_polygon.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_polygon.c.i: cmake_force
@@ -2547,7 +2607,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.obj: CMakeFiles/main.dir/
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_rect.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_166) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_rect.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_rect.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_rect.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_rect.c.i: cmake_force
@@ -2562,7 +2622,7 @@ CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/sw/lv_draw_sw_transform.c
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_167) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building C object CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_transform.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\sw\lv_draw_sw_transform.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\sw\lv_draw_sw_transform.c
 
 CMakeFiles/main.dir/lvgl/src/draw/sw/lv_draw_sw_transform.c.i: cmake_force
@@ -2577,7 +2637,7 @@ CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj: CMakeF
 CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c
 CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_168) "Building C object CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building C object CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.obj -MF CMakeFiles\main.dir\lvgl\src\draw\swm341_dma2d\lv_gpu_swm341_dma2d.c.obj.d -o CMakeFiles\main.dir\lvgl\src\draw\swm341_dma2d\lv_gpu_swm341_dma2d.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\draw\swm341_dma2d\lv_gpu_swm341_dma2d.c
 
 CMakeFiles/main.dir/lvgl/src/draw/swm341_dma2d/lv_gpu_swm341_dma2d.c.i: cmake_force
@@ -2592,7 +2652,7 @@ CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/layouts/flex/lv_flex.c
 CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_169) "Building C object CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building C object CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\layouts\flex\lv_flex.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\layouts\flex\lv_flex.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\layouts\flex\lv_flex.c
 
 CMakeFiles/main.dir/lvgl/src/extra/layouts/flex/lv_flex.c.i: cmake_force
@@ -2607,7 +2667,7 @@ CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/layouts/grid/lv_grid.c
 CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_170) "Building C object CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building C object CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\layouts\grid\lv_grid.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\layouts\grid\lv_grid.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\layouts\grid\lv_grid.c
 
 CMakeFiles/main.dir/lvgl/src/extra/layouts/grid/lv_grid.c.i: cmake_force
@@ -2622,7 +2682,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/bmp/lv_bmp.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_171) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\bmp\lv_bmp.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\bmp\lv_bmp.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\bmp\lv_bmp.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/bmp/lv_bmp.c.i: cmake_force
@@ -2637,7 +2697,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj: CMakeFiles/main.
 CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_172) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\ffmpeg\lv_ffmpeg.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\ffmpeg\lv_ffmpeg.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\ffmpeg\lv_ffmpeg.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/ffmpeg/lv_ffmpeg.c.i: cmake_force
@@ -2652,7 +2712,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.obj: CMakeFiles/m
 CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/freetype/lv_freetype.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_173) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\freetype\lv_freetype.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\freetype\lv_freetype.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\freetype\lv_freetype.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/freetype/lv_freetype.c.i: cmake_force
@@ -2667,7 +2727,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_174) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\fsdrv\lv_fs_fatfs.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\fsdrv\lv_fs_fatfs.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\fsdrv\lv_fs_fatfs.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_fatfs.c.i: cmake_force
@@ -2682,7 +2742,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_175) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\fsdrv\lv_fs_posix.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\fsdrv\lv_fs_posix.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\fsdrv\lv_fs_posix.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_posix.c.i: cmake_force
@@ -2697,7 +2757,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\fsdrv\lv_fs_stdio.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\fsdrv\lv_fs_stdio.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\fsdrv\lv_fs_stdio.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_stdio.c.i: cmake_force
@@ -2712,7 +2772,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\fsdrv\lv_fs_win32.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\fsdrv\lv_fs_win32.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\fsdrv\lv_fs_win32.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/fsdrv/lv_fs_win32.c.i: cmake_force
@@ -2727,7 +2787,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/gif/gifdec.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\gif\gifdec.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\gif\gifdec.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\gif\gifdec.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/gif/gifdec.c.i: cmake_force
@@ -2742,7 +2802,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/gif/lv_gif.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\gif\lv_gif.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\gif\lv_gif.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\gif\lv_gif.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/gif/lv_gif.c.i: cmake_force
@@ -2757,7 +2817,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.obj: CMakeFiles/main.dir/f
 CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/png/lodepng.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\png\lodepng.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\png\lodepng.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\png\lodepng.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/png/lodepng.c.i: cmake_force
@@ -2772,7 +2832,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/png/lv_png.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\png\lv_png.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\png\lv_png.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\png\lv_png.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/png/lv_png.c.i: cmake_force
@@ -2787,7 +2847,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.obj: CMakeFiles/main.
 CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/qrcode/lv_qrcode.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\qrcode\lv_qrcode.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\qrcode\lv_qrcode.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\qrcode\lv_qrcode.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/lv_qrcode.c.i: cmake_force
@@ -2802,7 +2862,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj: CMakeFiles/main.
 CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/qrcode/qrcodegen.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\qrcode\qrcodegen.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\qrcode\qrcodegen.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\qrcode\qrcodegen.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/qrcode/qrcodegen.c.i: cmake_force
@@ -2817,7 +2877,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.obj: CMakeFiles/mai
 CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/rlottie/lv_rlottie.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\rlottie\lv_rlottie.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\rlottie\lv_rlottie.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\rlottie\lv_rlottie.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/rlottie/lv_rlottie.c.i: cmake_force
@@ -2832,7 +2892,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.obj: CMakeFiles/main.dir/
 CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/sjpg/lv_sjpg.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\sjpg\lv_sjpg.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\sjpg\lv_sjpg.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\sjpg\lv_sjpg.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/lv_sjpg.c.i: cmake_force
@@ -2847,7 +2907,7 @@ CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/libs/sjpg/tjpgd.c
 CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building C object CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\libs\sjpg\tjpgd.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\libs\sjpg\tjpgd.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\libs\sjpg\tjpgd.c
 
 CMakeFiles/main.dir/lvgl/src/extra/libs/sjpg/tjpgd.c.i: cmake_force
@@ -2862,7 +2922,7 @@ CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.obj: CMakeFiles/main.dir/flags.mak
 CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/lv_extra.c
 CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building C object CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building C object CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\lv_extra.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\lv_extra.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\lv_extra.c
 
 CMakeFiles/main.dir/lvgl/src/extra/lv_extra.c.i: cmake_force
@@ -2877,7 +2937,7 @@ CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.obj: CMakeFiles
 CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/fragment/lv_fragment.c
 CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\others\fragment\lv_fragment.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\others\fragment\lv_fragment.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\others\fragment\lv_fragment.c
 
 CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment.c.i: cmake_force
@@ -2892,7 +2952,7 @@ CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.obj: CM
 CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/fragment/lv_fragment_manager.c
 CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_189) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\others\fragment\lv_fragment_manager.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\others\fragment\lv_fragment_manager.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\others\fragment\lv_fragment_manager.c
 
 CMakeFiles/main.dir/lvgl/src/extra/others/fragment/lv_fragment_manager.c.i: cmake_force
@@ -2907,7 +2967,7 @@ CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.obj: CMakeFiles/m
 CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/gridnav/lv_gridnav.c
 CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_190) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\others\gridnav\lv_gridnav.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\others\gridnav\lv_gridnav.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\others\gridnav\lv_gridnav.c
 
 CMakeFiles/main.dir/lvgl/src/extra/others/gridnav/lv_gridnav.c.i: cmake_force
@@ -2922,7 +2982,7 @@ CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/ime/lv_ime_pinyin.c
 CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_191) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\others\ime\lv_ime_pinyin.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\others\ime\lv_ime_pinyin.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\others\ime\lv_ime_pinyin.c
 
 CMakeFiles/main.dir/lvgl/src/extra/others/ime/lv_ime_pinyin.c.i: cmake_force
@@ -2937,7 +2997,7 @@ CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.obj: CMakeFiles/m
 CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/imgfont/lv_imgfont.c
 CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_192) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\others\imgfont\lv_imgfont.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\others\imgfont\lv_imgfont.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\others\imgfont\lv_imgfont.c
 
 CMakeFiles/main.dir/lvgl/src/extra/others/imgfont/lv_imgfont.c.i: cmake_force
@@ -2952,7 +3012,7 @@ CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.obj: CMakeFiles/mai
 CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/monkey/lv_monkey.c
 CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_193) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\others\monkey\lv_monkey.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\others\monkey\lv_monkey.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\others\monkey\lv_monkey.c
 
 CMakeFiles/main.dir/lvgl/src/extra/others/monkey/lv_monkey.c.i: cmake_force
@@ -2967,7 +3027,7 @@ CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.obj: CMakeFiles/main.dir/
 CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/msg/lv_msg.c
 CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_194) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\others\msg\lv_msg.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\others\msg\lv_msg.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\others\msg\lv_msg.c
 
 CMakeFiles/main.dir/lvgl/src/extra/others/msg/lv_msg.c.i: cmake_force
@@ -2982,7 +3042,7 @@ CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.obj: CMakeFiles
 CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/others/snapshot/lv_snapshot.c
 CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_195) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building C object CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\others\snapshot\lv_snapshot.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\others\snapshot\lv_snapshot.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\others\snapshot\lv_snapshot.c
 
 CMakeFiles/main.dir/lvgl/src/extra/others/snapshot/lv_snapshot.c.i: cmake_force
@@ -2997,7 +3057,7 @@ CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.obj: CMakeFiles
 CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/themes/basic/lv_theme_basic.c
 CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_196) "Building C object CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building C object CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\themes\basic\lv_theme_basic.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\themes\basic\lv_theme_basic.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\themes\basic\lv_theme_basic.c
 
 CMakeFiles/main.dir/lvgl/src/extra/themes/basic/lv_theme_basic.c.i: cmake_force
@@ -3012,7 +3072,7 @@ CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.obj: CMakeF
 CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/themes/default/lv_theme_default.c
 CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building C object CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building C object CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\themes\default\lv_theme_default.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\themes\default\lv_theme_default.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\themes\default\lv_theme_default.c
 
 CMakeFiles/main.dir/lvgl/src/extra/themes/default/lv_theme_default.c.i: cmake_force
@@ -3027,7 +3087,7 @@ CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.obj: CMakeFiles/m
 CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/themes/mono/lv_theme_mono.c
 CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building C object CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building C object CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\themes\mono\lv_theme_mono.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\themes\mono\lv_theme_mono.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\themes\mono\lv_theme_mono.c
 
 CMakeFiles/main.dir/lvgl/src/extra/themes/mono/lv_theme_mono.c.i: cmake_force
@@ -3042,7 +3102,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.obj: CMakeFiles/
 CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/animimg/lv_animimg.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\animimg\lv_animimg.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\animimg\lv_animimg.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\animimg\lv_animimg.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/animimg/lv_animimg.c.i: cmake_force
@@ -3057,7 +3117,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.obj: CMakeFile
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/calendar/lv_calendar.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\calendar\lv_calendar.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\calendar\lv_calendar.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\calendar\lv_calendar.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar.c.i: cmake_force
@@ -3072,7 +3132,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.o
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\calendar\lv_calendar_header_arrow.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\calendar\lv_calendar_header_arrow.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\calendar\lv_calendar_header_arrow.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_arrow.c.i: cmake_force
@@ -3087,7 +3147,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\calendar\lv_calendar_header_dropdown.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\calendar\lv_calendar_header_dropdown.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\calendar\lv_calendar_header_dropdown.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/calendar/lv_calendar_header_dropdown.c.i: cmake_force
@@ -3102,7 +3162,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/chart/lv_chart.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\chart\lv_chart.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\chart\lv_chart.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\chart\lv_chart.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/chart/lv_chart.c.i: cmake_force
@@ -3117,7 +3177,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.obj: CMake
 CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\colorwheel\lv_colorwheel.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\colorwheel\lv_colorwheel.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\colorwheel\lv_colorwheel.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/colorwheel/lv_colorwheel.c.i: cmake_force
@@ -3132,7 +3192,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\imgbtn\lv_imgbtn.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\imgbtn\lv_imgbtn.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\imgbtn\lv_imgbtn.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/imgbtn/lv_imgbtn.c.i: cmake_force
@@ -3147,7 +3207,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.obj: CMakeFile
 CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/keyboard/lv_keyboard.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_206) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\keyboard\lv_keyboard.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\keyboard\lv_keyboard.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\keyboard\lv_keyboard.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/keyboard/lv_keyboard.c.i: cmake_force
@@ -3162,7 +3222,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.obj: CMakeFiles/main.dir
 CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/led/lv_led.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_207) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\led\lv_led.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\led\lv_led.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\led\lv_led.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/led/lv_led.c.i: cmake_force
@@ -3177,7 +3237,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/list/lv_list.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_208) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\list\lv_list.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\list\lv_list.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\list\lv_list.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/list/lv_list.c.i: cmake_force
@@ -3192,7 +3252,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/menu/lv_menu.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_209) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\menu\lv_menu.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\menu\lv_menu.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\menu\lv_menu.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/menu/lv_menu.c.i: cmake_force
@@ -3207,7 +3267,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/meter/lv_meter.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_210) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\meter\lv_meter.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\meter\lv_meter.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\meter\lv_meter.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/meter/lv_meter.c.i: cmake_force
@@ -3222,7 +3282,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/msgbox/lv_msgbox.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_211) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\msgbox\lv_msgbox.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\msgbox\lv_msgbox.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\msgbox\lv_msgbox.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/msgbox/lv_msgbox.c.i: cmake_force
@@ -3237,7 +3297,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/span/lv_span.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_212) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\span\lv_span.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\span\lv_span.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\span\lv_span.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/span/lv_span.c.i: cmake_force
@@ -3252,7 +3312,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.obj: CMakeFiles/
 CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/spinbox/lv_spinbox.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_213) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\spinbox\lv_spinbox.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\spinbox\lv_spinbox.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\spinbox\lv_spinbox.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/spinbox/lv_spinbox.c.i: cmake_force
@@ -3267,7 +3327,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.obj: CMakeFiles/
 CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/spinner/lv_spinner.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_214) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\spinner\lv_spinner.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\spinner\lv_spinner.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\spinner\lv_spinner.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/spinner/lv_spinner.c.i: cmake_force
@@ -3282,7 +3342,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.obj: CMakeFiles/
 CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/tabview/lv_tabview.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_215) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\tabview\lv_tabview.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\tabview\lv_tabview.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\tabview\lv_tabview.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/tabview/lv_tabview.c.i: cmake_force
@@ -3297,7 +3357,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.obj: CMakeFile
 CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/tileview/lv_tileview.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_216) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\tileview\lv_tileview.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\tileview\lv_tileview.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\tileview\lv_tileview.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/tileview/lv_tileview.c.i: cmake_force
@@ -3312,7 +3372,7 @@ CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.obj: CMakeFiles/main.dir
 CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/extra/widgets/win/lv_win.c
 CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_217) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building C object CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.obj -MF CMakeFiles\main.dir\lvgl\src\extra\widgets\win\lv_win.c.obj.d -o CMakeFiles\main.dir\lvgl\src\extra\widgets\win\lv_win.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\extra\widgets\win\lv_win.c
 
 CMakeFiles/main.dir/lvgl/src/extra/widgets/win/lv_win.c.i: cmake_force
@@ -3327,7 +3387,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/font/lv_font.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_218) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font.c.i: cmake_force
@@ -3342,7 +3402,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.obj: CMakeF
 CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_219) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_dejavu_16_persian_hebrew.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_dejavu_16_persian_hebrew.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_dejavu_16_persian_hebrew.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_dejavu_16_persian_hebrew.c.i: cmake_force
@@ -3357,7 +3417,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_fmt_txt.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_220) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_fmt_txt.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_fmt_txt.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_fmt_txt.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_fmt_txt.c.i: cmake_force
@@ -3372,7 +3432,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.obj: CMakeFiles/main.dir/flag
 CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_loader.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_loader.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_loader.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_loader.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_loader.c.i: cmake_force
@@ -3387,7 +3447,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_10.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_10.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_10.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_10.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_10.c.i: cmake_force
@@ -3402,7 +3462,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_12.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_12.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_12.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_12.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12.c.i: cmake_force
@@ -3417,7 +3477,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.obj: CMakeFiles/
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_12_subpx.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_12_subpx.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_12_subpx.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_12_subpx.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_12_subpx.c.i: cmake_force
@@ -3432,7 +3492,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_14.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_14.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_14.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_14.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_14.c.i: cmake_force
@@ -3447,7 +3507,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_16.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_16.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_16.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_16.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_16.c.i: cmake_force
@@ -3462,7 +3522,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_18.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_18.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_18.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_18.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_18.c.i: cmake_force
@@ -3477,7 +3537,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_20.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_20.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_20.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_20.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_20.c.i: cmake_force
@@ -3492,7 +3552,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_22.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_22.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_22.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_22.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_22.c.i: cmake_force
@@ -3507,7 +3567,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_24.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_24.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_24.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_24.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_24.c.i: cmake_force
@@ -3522,7 +3582,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_26.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_26.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_26.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_26.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_26.c.i: cmake_force
@@ -3537,7 +3597,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_28.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_28.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_28.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_28.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28.c.i: cmake_force
@@ -3552,7 +3612,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.obj: CMakeF
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_28_compressed.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_28_compressed.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_28_compressed.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_28_compressed.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_28_compressed.c.i: cmake_force
@@ -3567,7 +3627,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_30.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_30.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_30.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_30.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_30.c.i: cmake_force
@@ -3582,7 +3642,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_32.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_32.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_32.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_32.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_32.c.i: cmake_force
@@ -3597,7 +3657,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_34.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_34.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_34.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_34.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_34.c.i: cmake_force
@@ -3612,7 +3672,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_36.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_36.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_36.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_36.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_36.c.i: cmake_force
@@ -3627,7 +3687,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_38.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_38.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_38.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_38.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_38.c.i: cmake_force
@@ -3642,7 +3702,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_40.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_40.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_40.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_40.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_40.c.i: cmake_force
@@ -3657,7 +3717,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_42.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_240) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_42.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_42.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_42.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_42.c.i: cmake_force
@@ -3672,7 +3732,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_44.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_241) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_44.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_44.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_44.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_44.c.i: cmake_force
@@ -3687,7 +3747,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_46.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_242) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_46.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_46.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_46.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_46.c.i: cmake_force
@@ -3702,7 +3762,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_48.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_243) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_48.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_48.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_48.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_48.c.i: cmake_force
@@ -3717,7 +3777,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.obj: CMakeFiles/main.di
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_montserrat_8.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_244) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_8.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_montserrat_8.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_montserrat_8.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_montserrat_8.c.i: cmake_force
@@ -3732,7 +3792,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_simsun_16_cjk.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_245) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_simsun_16_cjk.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_simsun_16_cjk.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_simsun_16_cjk.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.i: cmake_force
@@ -3747,7 +3807,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj: CMakeFiles/main.dir/f
 CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_unscii_16.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_246) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_unscii_16.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_unscii_16.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_unscii_16.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.i: cmake_force
@@ -3762,7 +3822,7 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/lv_font_unscii_8.c
 CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_247) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building C object CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\lv_font_unscii_8.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\lv_font_unscii_8.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_unscii_8.c
 
 CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.i: cmake_force
@@ -3773,11 +3833,26 @@ CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.s"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\lv_font_unscii_8.c -o CMakeFiles\main.dir\lvgl\src\font\lv_font_unscii_8.c.s
 
+CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj: CMakeFiles/main.dir/includes_C.rsp
+CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/font/myFont.c
+CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building C object CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj"
+	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj -MF CMakeFiles\main.dir\lvgl\src\font\myFont.c.obj.d -o CMakeFiles\main.dir\lvgl\src\font\myFont.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\myFont.c
+
+CMakeFiles/main.dir/lvgl/src/font/myFont.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/main.dir/lvgl/src/font/myFont.c.i"
+	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\myFont.c > CMakeFiles\main.dir\lvgl\src\font\myFont.c.i
+
+CMakeFiles/main.dir/lvgl/src/font/myFont.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/main.dir/lvgl/src/font/myFont.c.s"
+	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\font\myFont.c -o CMakeFiles\main.dir\lvgl\src\font\myFont.c.s
+
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/hal/lv_hal_disp.c
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_248) "Building C object CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building C object CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj -MF CMakeFiles\main.dir\lvgl\src\hal\lv_hal_disp.c.obj.d -o CMakeFiles\main.dir\lvgl\src\hal\lv_hal_disp.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\hal\lv_hal_disp.c
 
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.i: cmake_force
@@ -3792,7 +3867,7 @@ CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/hal/lv_hal_indev.c
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_249) "Building C object CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building C object CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj -MF CMakeFiles\main.dir\lvgl\src\hal\lv_hal_indev.c.obj.d -o CMakeFiles\main.dir\lvgl\src\hal\lv_hal_indev.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\hal\lv_hal_indev.c
 
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.i: cmake_force
@@ -3807,7 +3882,7 @@ CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj: CMakeFiles/main.dir/flags.ma
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/hal/lv_hal_tick.c
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_250) "Building C object CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building C object CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj -MF CMakeFiles\main.dir\lvgl\src\hal\lv_hal_tick.c.obj.d -o CMakeFiles\main.dir\lvgl\src\hal\lv_hal_tick.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\hal\lv_hal_tick.c
 
 CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.i: cmake_force
@@ -3822,7 +3897,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_anim.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_251) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_anim.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_anim.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_anim.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_anim.c.i: cmake_force
@@ -3837,7 +3912,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_anim_timeline.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_252) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_anim_timeline.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_anim_timeline.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_anim_timeline.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_anim_timeline.c.i: cmake_force
@@ -3852,7 +3927,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_area.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_253) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_area.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_area.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_area.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_area.c.i: cmake_force
@@ -3867,7 +3942,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_async.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_254) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_async.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_async.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_async.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_async.c.i: cmake_force
@@ -3882,7 +3957,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_bidi.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_255) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_bidi.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_bidi.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_bidi.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_bidi.c.i: cmake_force
@@ -3897,7 +3972,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_color.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_256) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_color.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_color.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_color.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_color.c.i: cmake_force
@@ -3912,7 +3987,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_fs.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_257) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_fs.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_fs.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_fs.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_fs.c.i: cmake_force
@@ -3927,7 +4002,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_gc.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_258) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_gc.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_gc.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_gc.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_gc.c.i: cmake_force
@@ -3942,7 +4017,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_ll.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_259) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_ll.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_ll.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_ll.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_ll.c.i: cmake_force
@@ -3957,7 +4032,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_log.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_260) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_log.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_log.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_log.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_log.c.i: cmake_force
@@ -3972,7 +4047,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_lru.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_261) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_lru.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_lru.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_lru.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_lru.c.i: cmake_force
@@ -3987,7 +4062,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_math.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_262) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_math.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_math.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_math.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_math.c.i: cmake_force
@@ -4002,7 +4077,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_mem.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_263) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_mem.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_mem.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_mem.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_mem.c.i: cmake_force
@@ -4017,7 +4092,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.obj: CMakeFiles/main.dir/flags.mak
 CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_printf.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_264) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_printf.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_printf.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_printf.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_printf.c.i: cmake_force
@@ -4032,7 +4107,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_style.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_265) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_style.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_style.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_style.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_style.c.i: cmake_force
@@ -4047,7 +4122,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_style_gen.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_266) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_style_gen.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_style_gen.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_style_gen.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_style_gen.c.i: cmake_force
@@ -4062,7 +4137,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_templ.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_267) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_templ.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_templ.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_templ.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_templ.c.i: cmake_force
@@ -4077,7 +4152,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_timer.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_268) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_timer.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_timer.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_timer.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_timer.c.i: cmake_force
@@ -4092,7 +4167,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_tlsf.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_269) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_tlsf.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_tlsf.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_tlsf.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_tlsf.c.i: cmake_force
@@ -4107,7 +4182,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_txt.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_270) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_txt.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_txt.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_txt.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_txt.c.i: cmake_force
@@ -4122,7 +4197,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.obj: CMakeFiles/main.dir/flags.mak
 CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_txt_ap.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_271) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_txt_ap.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_txt_ap.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_txt_ap.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_txt_ap.c.i: cmake_force
@@ -4137,7 +4212,7 @@ CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.obj: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/misc/lv_utils.c
 CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_272) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building C object CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.obj -MF CMakeFiles\main.dir\lvgl\src\misc\lv_utils.c.obj.d -o CMakeFiles\main.dir\lvgl\src\misc\lv_utils.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\misc\lv_utils.c
 
 CMakeFiles/main.dir/lvgl/src/misc/lv_utils.c.i: cmake_force
@@ -4152,7 +4227,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.obj: CMakeFiles/main.dir/flags.mak
 CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_arc.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_273) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_arc.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_arc.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_arc.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_arc.c.i: cmake_force
@@ -4167,7 +4242,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.obj: CMakeFiles/main.dir/flags.mak
 CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_bar.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_274) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_bar.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_bar.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_bar.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_bar.c.i: cmake_force
@@ -4182,7 +4257,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.obj: CMakeFiles/main.dir/flags.mak
 CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_btn.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_275) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_btn.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_btn.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_btn.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_btn.c.i: cmake_force
@@ -4197,7 +4272,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_btnmatrix.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_276) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_btnmatrix.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_btnmatrix.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_btnmatrix.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_btnmatrix.c.i: cmake_force
@@ -4212,7 +4287,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_canvas.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_277) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_canvas.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_canvas.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_canvas.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_canvas.c.i: cmake_force
@@ -4227,7 +4302,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.obj: CMakeFiles/main.dir/flag
 CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_checkbox.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_278) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_checkbox.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_checkbox.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_checkbox.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_checkbox.c.i: cmake_force
@@ -4242,7 +4317,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.obj: CMakeFiles/main.dir/flag
 CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_dropdown.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_279) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_dropdown.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_dropdown.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_dropdown.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_dropdown.c.i: cmake_force
@@ -4257,7 +4332,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.obj: CMakeFiles/main.dir/flags.mak
 CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_img.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_280) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_img.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_img.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_img.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_img.c.i: cmake_force
@@ -4272,7 +4347,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_label.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_281) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_label.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_label.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_label.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_label.c.i: cmake_force
@@ -4287,7 +4362,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.obj: CMakeFiles/main.dir/flags.ma
 CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_line.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_282) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_line.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_line.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_line.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_line.c.i: cmake_force
@@ -4302,7 +4377,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_objx_templ.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_283) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_objx_templ.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_objx_templ.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_objx_templ.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_objx_templ.c.i: cmake_force
@@ -4317,7 +4392,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_roller.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_284) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_roller.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_roller.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_roller.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_roller.c.i: cmake_force
@@ -4332,7 +4407,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_slider.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_285) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_slider.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_slider.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_slider.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_slider.c.i: cmake_force
@@ -4347,7 +4422,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.obj: CMakeFiles/main.dir/flags.
 CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_switch.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_286) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_switch.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_switch.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_switch.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_switch.c.i: cmake_force
@@ -4362,7 +4437,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.obj: CMakeFiles/main.dir/flags.m
 CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_table.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_287) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_table.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_table.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_table.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_table.c.i: cmake_force
@@ -4377,7 +4452,7 @@ CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.obj: CMakeFiles/main.dir/flag
 CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.obj: CMakeFiles/main.dir/includes_C.rsp
 CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvgl/src/widgets/lv_textarea.c
 CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_288) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building C object CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.obj"
 	D:\MinGw8.1\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.obj -MF CMakeFiles\main.dir\lvgl\src\widgets\lv_textarea.c.obj.d -o CMakeFiles\main.dir\lvgl\src\widgets\lv_textarea.c.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvgl\src\widgets\lv_textarea.c
 
 CMakeFiles/main.dir/lvgl/src/widgets/lv_textarea.c.i: cmake_force
@@ -4392,7 +4467,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/core/display.cpp.obj: CMakeFiles/main.dir/
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/display.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/display.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/core/display.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/display.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_289) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/display.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/display.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/core/display.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\core\display.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\core\display.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\core\display.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/display.cpp.i: cmake_force
@@ -4407,7 +4482,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/core/event.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/event.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/event.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/core/event.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/event.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_290) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/event.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/event.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/core/event.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\core\event.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\core\event.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\core\event.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/event.cpp.i: cmake_force
@@ -4422,7 +4497,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/core/group.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/group.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/group.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/core/group.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/group.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_291) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/group.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/group.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/core/group.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\core\group.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\core\group.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\core\group.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/group.cpp.i: cmake_force
@@ -4437,7 +4512,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/core/indev.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/indev.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/indev.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/core/indev.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/indev.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_292) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/indev.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/indev.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/core/indev.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\core\indev.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\core\indev.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\core\indev.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/indev.cpp.i: cmake_force
@@ -4452,7 +4527,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/core/object.cpp.obj: CMakeFiles/main.dir/f
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/object.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/object.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/core/object.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/object.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_293) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/object.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/object.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/core/object.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\core\object.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\core\object.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\core\object.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/object.cpp.i: cmake_force
@@ -4467,7 +4542,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/core/theme.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/theme.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/theme.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/core/theme.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/theme.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_294) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/theme.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/core/theme.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/core/theme.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\core\theme.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\core\theme.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\core\theme.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/core/theme.cpp.i: cmake_force
@@ -4482,7 +4557,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/desc.cpp.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/desc.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/desc.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/draw/desc.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/desc.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_295) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/desc.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/desc.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/desc.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\draw\desc.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\draw\desc.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\draw\desc.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/desc.cpp.i: cmake_force
@@ -4497,7 +4572,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/image.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/image.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/image.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/draw/image.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/image.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_296) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/image.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/image.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/image.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\draw\image.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\draw\image.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\draw\image.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/image.cpp.i: cmake_force
@@ -4512,7 +4587,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/mask.cpp.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/mask.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/mask.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/draw/mask.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/mask.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_297) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/mask.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/mask.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/mask.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\draw\mask.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\draw\mask.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\draw\mask.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/draw/mask.cpp.i: cmake_force
@@ -4527,7 +4602,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/font/font.cpp.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvglpp/src/lvglpp/font/font.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/font/font.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/font/font.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/font/font.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_298) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/font/font.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/font/font.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/font/font.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\font\font.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\font\font.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\font\font.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/font/font.cpp.i: cmake_force
@@ -4542,7 +4617,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/anim.cpp.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/anim.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/anim.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/misc/anim.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/anim.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_299) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/anim.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/anim.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/anim.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\anim.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\anim.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\misc\anim.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/anim.cpp.i: cmake_force
@@ -4557,7 +4632,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/area.cpp.obj: CMakeFiles/main.dir/fla
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/area.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/area.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/misc/area.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/area.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_300) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/area.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/area.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/area.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\area.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\area.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\misc\area.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/area.cpp.i: cmake_force
@@ -4572,7 +4647,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/color.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/color.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/color.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/misc/color.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/color.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_301) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/color.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/color.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/color.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\color.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\color.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\misc\color.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/color.cpp.i: cmake_force
@@ -4587,7 +4662,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/fs.cpp.obj: CMakeFiles/main.dir/flags
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/fs.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/fs.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/misc/fs.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/fs.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_302) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/fs.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/fs.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/fs.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\fs.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\fs.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\misc\fs.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/fs.cpp.i: cmake_force
@@ -4602,7 +4677,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/style.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/style.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/style.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/misc/style.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/style.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_303) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/style.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/style.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/style.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\style.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\style.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\misc\style.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/style.cpp.i: cmake_force
@@ -4617,7 +4692,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/timer.cpp.obj: CMakeFiles/main.dir/fl
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/timer.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/timer.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/misc/timer.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/timer.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_304) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/timer.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/timer.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/timer.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\timer.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\misc\timer.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\misc\timer.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/misc/timer.cpp.i: cmake_force
@@ -4632,7 +4707,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp.obj: CMakeFile
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_305) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\animimg\animimg.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\animimg\animimg.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\animimg\animimg.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/animimg/animimg.cpp.i: cmake_force
@@ -4647,7 +4722,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/arc/arc.cpp.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/arc/arc.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/arc/arc.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/arc/arc.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/arc/arc.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_306) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/arc/arc.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/arc/arc.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/arc/arc.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\arc\arc.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\arc\arc.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\arc\arc.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/arc/arc.cpp.i: cmake_force
@@ -4662,7 +4737,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/bar/bar.cpp.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/bar/bar.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/bar/bar.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/bar/bar.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/bar/bar.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_307) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/bar/bar.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/bar/bar.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/bar/bar.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\bar\bar.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\bar\bar.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\bar\bar.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/bar/bar.cpp.i: cmake_force
@@ -4677,7 +4752,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp.obj: CMake
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_308) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\btnmatrix\btnmatrix.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\btnmatrix\btnmatrix.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\btnmatrix\btnmatrix.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/btnmatrix/btnmatrix.cpp.i: cmake_force
@@ -4692,7 +4767,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp.obj: CMakeFi
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_309) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\calendar\calendar.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\calendar\calendar.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\calendar\calendar.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/calendar/calendar.cpp.i: cmake_force
@@ -4707,7 +4782,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp.obj: CMakeFiles/
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_310) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\canvas\canvas.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\canvas\canvas.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\canvas\canvas.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/canvas/canvas.cpp.i: cmake_force
@@ -4722,7 +4797,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/chart/chart.cpp.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/chart/chart.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/chart/chart.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/chart/chart.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/chart/chart.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_311) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/chart/chart.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/chart/chart.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/chart/chart.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\chart\chart.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\chart\chart.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\chart\chart.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/chart/chart.cpp.i: cmake_force
@@ -4737,7 +4812,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp.obj: CMakeFi
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_312) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\checkbox\checkbox.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\checkbox\checkbox.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\checkbox\checkbox.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/checkbox/checkbox.cpp.i: cmake_force
@@ -4752,7 +4827,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp.obj: CMa
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_313) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\colorwheel\colorwheel.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\colorwheel\colorwheel.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\colorwheel\colorwheel.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/colorwheel/colorwheel.cpp.i: cmake_force
@@ -4767,7 +4842,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp.obj: CMakeFi
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_314) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\dropdown\dropdown.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\dropdown\dropdown.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\dropdown\dropdown.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/dropdown/dropdown.cpp.i: cmake_force
@@ -4782,7 +4857,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/image/image.cpp.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/image/image.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/image/image.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/image/image.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/image/image.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_315) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/image/image.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/image/image.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/image/image.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\image\image.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\image\image.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\image\image.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/image/image.cpp.i: cmake_force
@@ -4797,7 +4872,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp.obj: CMakeFiles/
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_316) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\imgbtn\imgbtn.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\imgbtn\imgbtn.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\imgbtn\imgbtn.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/imgbtn/imgbtn.cpp.i: cmake_force
@@ -4812,7 +4887,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp.obj: CMakeFi
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_317) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\keyboard\keyboard.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\keyboard\keyboard.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\keyboard\keyboard.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/keyboard/keyboard.cpp.i: cmake_force
@@ -4827,7 +4902,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/label/label.cpp.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/label/label.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/label/label.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/label/label.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/label/label.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_318) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/label/label.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/label/label.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/label/label.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\label\label.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\label\label.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\label\label.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/label/label.cpp.i: cmake_force
@@ -4842,7 +4917,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/led/led.cpp.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/led/led.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/led/led.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/led/led.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/led/led.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_319) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/led/led.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/led/led.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/led/led.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\led\led.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\led\led.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\led\led.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/led/led.cpp.i: cmake_force
@@ -4857,7 +4932,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/line/line.cpp.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/line/line.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/line/line.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/line/line.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/line/line.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_320) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/line/line.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/line/line.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/line/line.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\line\line.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\line\line.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\line\line.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/line/line.cpp.i: cmake_force
@@ -4872,7 +4947,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/list/list.cpp.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/list/list.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/list/list.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/list/list.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/list/list.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_321) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/list/list.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/list/list.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/list/list.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\list\list.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\list\list.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\list\list.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/list/list.cpp.i: cmake_force
@@ -4887,7 +4962,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/menu/menu.cpp.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/menu/menu.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/menu/menu.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/menu/menu.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/menu/menu.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_322) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/menu/menu.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/menu/menu.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/menu/menu.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\menu\menu.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\menu\menu.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\menu\menu.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/menu/menu.cpp.i: cmake_force
@@ -4902,7 +4977,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/meter/meter.cpp.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/meter/meter.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/meter/meter.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/meter/meter.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/meter/meter.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_323) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/meter/meter.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/meter/meter.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/meter/meter.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\meter\meter.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\meter\meter.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\meter\meter.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/meter/meter.cpp.i: cmake_force
@@ -4917,7 +4992,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp.obj: CMakeFiles/
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_324) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\msgbox\msgbox.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\msgbox\msgbox.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\msgbox\msgbox.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/msgbox/msgbox.cpp.i: cmake_force
@@ -4932,7 +5007,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/roller/roller.cpp.obj: CMakeFiles/
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/roller/roller.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/roller/roller.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/roller/roller.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/roller/roller.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_325) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/roller/roller.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/roller/roller.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/roller/roller.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\roller\roller.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\roller\roller.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\roller\roller.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/roller/roller.cpp.i: cmake_force
@@ -4947,7 +5022,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/slider/slider.cpp.obj: CMakeFiles/
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/slider/slider.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/slider/slider.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/slider/slider.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/slider/slider.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_326) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/slider/slider.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/slider/slider.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/slider/slider.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\slider\slider.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\slider\slider.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\slider\slider.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/slider/slider.cpp.i: cmake_force
@@ -4962,7 +5037,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/span/span.cpp.obj: CMakeFiles/main
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/span/span.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/span/span.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/span/span.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/span/span.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_327) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/span/span.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/span/span.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/span/span.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\span\span.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\span\span.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\span\span.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/span/span.cpp.i: cmake_force
@@ -4977,7 +5052,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp.obj: CMakeFile
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_328) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\spinbox\spinbox.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\spinbox\spinbox.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\spinbox\spinbox.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinbox/spinbox.cpp.i: cmake_force
@@ -4992,7 +5067,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp.obj: CMakeFile
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_329) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\spinner\spinner.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\spinner\spinner.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\spinner\spinner.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/spinner/spinner.cpp.i: cmake_force
@@ -5007,7 +5082,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/switch/switch.cpp.obj: CMakeFiles/
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/switch/switch.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/switch/switch.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/switch/switch.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/switch/switch.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_330) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/switch/switch.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/switch/switch.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/switch/switch.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\switch\switch.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\switch\switch.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\switch\switch.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/switch/switch.cpp.i: cmake_force
@@ -5022,7 +5097,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/table/table.cpp.obj: CMakeFiles/ma
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/table/table.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/table/table.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/table/table.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/table/table.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_331) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/table/table.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/table/table.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/table/table.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\table\table.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\table\table.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\table\table.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/table/table.cpp.i: cmake_force
@@ -5037,7 +5112,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp.obj: CMakeFile
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_332) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_337) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\tabview\tabview.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\tabview\tabview.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\tabview\tabview.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tabview/tabview.cpp.i: cmake_force
@@ -5052,7 +5127,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp.obj: CMakeFi
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_333) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_338) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\textarea\textarea.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\textarea\textarea.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\textarea\textarea.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/textarea/textarea.cpp.i: cmake_force
@@ -5067,7 +5142,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp.obj: CMakeFi
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_334) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_339) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\tileview\tileview.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\tileview\tileview.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\tileview\tileview.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/tileview/tileview.cpp.i: cmake_force
@@ -5082,7 +5157,7 @@ CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/win/win.cpp.obj: CMakeFiles/main.d
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/win/win.cpp.obj: CMakeFiles/main.dir/includes_CXX.rsp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/win/win.cpp.obj: D:/lvgl/lv_port_pc_eclipse-release-v8.3/lvglpp/src/lvglpp/widgets/win/win.cpp
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/win/win.cpp.obj: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_335) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/win/win.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_340) "Building CXX object CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/win/win.cpp.obj"
 	D:\MinGw8.1\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/win/win.cpp.obj -MF CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\win\win.cpp.obj.d -o CMakeFiles\main.dir\lvglpp\src\lvglpp\widgets\win\win.cpp.obj -c D:\lvgl\lv_port_pc_eclipse-release-v8.3\lvglpp\src\lvglpp\widgets\win\win.cpp
 
 CMakeFiles/main.dir/lvglpp/src/lvglpp/widgets/win/win.cpp.i: cmake_force
@@ -5101,9 +5176,13 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/Chess/ChessGame/ChessGame.cpp.obj" \
 "CMakeFiles/main.dir/Chess/ChessPhysicalCoordinates/ChessPhysicalCoordinates.cpp.obj" \
 "CMakeFiles/main.dir/Chess/ChessPhysicalCoordinates/SDLCOOr.cpp.obj" \
+"CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj" \
 "CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj" \
 "CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj" \
+"CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj" \
 "CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj" \
+"CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj" \
+"CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj" \
 "CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj" \
 "CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj" \
 "CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj" \
@@ -5342,6 +5421,7 @@ main_OBJECTS = \
 "CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj" \
 "CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj" \
 "CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj" \
+"CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj" \
 "CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj" \
 "CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj" \
 "CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj" \
@@ -5440,9 +5520,13 @@ D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessGame/ChessGame.cpp.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPhysicalCoordinates/ChessPhysicalCoordinates.cpp.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPhysicalCoordinates/SDLCOOr.cpp.obj
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPiece/Adviser.cpp.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPiece/Cannon.cpp.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPiece/ChessPiece.cpp.obj
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPiece/Elephant.cpp.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPiece/Horse.cpp.obj
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPiece/King.cpp.obj
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPiece/Pawn.cpp.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/ChessPiece/Rook.cpp.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/Chess/Point/PointChess.cpp.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/ConnectingBridge/Src/Startup.cpp.obj
@@ -5681,6 +5765,7 @@ D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/lvgl/s
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/lvgl/src/font/lv_font_simsun_16_cjk.c.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_16.c.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/lvgl/src/font/lv_font_unscii_8.c.obj
+D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/lvgl/src/font/myFont.c.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/lvgl/src/hal/lv_hal_disp.c.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/lvgl/src/hal/lv_hal_indev.c.obj
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/lvgl/src/hal/lv_hal_tick.c.obj
@@ -5773,7 +5858,7 @@ D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/build.
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/linkLibs.rsp
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/objects1.rsp
 D:/lvgl/lv_port_pc_eclipse-release-v8.3/bin/main.exe: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_336) "Linking CXX executable D:\lvgl\lv_port_pc_eclipse-release-v8.3\bin\main.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\lvgl\lv_port_pc_eclipse-release-v8.3\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_341) "Linking CXX executable D:\lvgl\lv_port_pc_eclipse-release-v8.3\bin\main.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\main.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

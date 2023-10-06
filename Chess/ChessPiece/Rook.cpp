@@ -56,8 +56,8 @@ bool Rook::CanMoveTo(const PointChess &point) const {
     return false;
 }
 
-const char *Rook::GetName() const {
-    return "車";
+const char * Rook::GetName() const {
+    return "俥" ;
 }
 
 const bool Rook::CanCrossTheRiver() const {
