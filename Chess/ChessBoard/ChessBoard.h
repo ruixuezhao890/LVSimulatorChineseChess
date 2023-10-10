@@ -42,7 +42,6 @@ private:
     friend class ChessPiece;
     ChessPiece* Board[COL + 1][ROW];//´æ´¢Æå×Ó
     std::list<ChessPiece*> Red,Black;
-
     void InitChessPiece();
 
 

@@ -24,9 +24,9 @@ bool King::CanMoveTo(const PointChess &point) const {
     {
         if (ChessColor == point.ColorOfArea() && point.IsInNinePalaces())
         {
-            for (auto i : s)
+            for (uint8_t i = 0; i < 4; i++)
             {
-                if (point == PointChess(m_point.m_x + i.m_x, m_point.m_y + i.m_y))
+                if (point == PointChess(m_point.m_x + s[i].m_x, m_point.m_y + s[i].m_y))
                 {
                     return true;
                 }

@@ -18,20 +18,10 @@
 #include "Chess/ChessPhysicalCoordinates/ChessPhysicalCoordinates.h"
 #include "Chess/ChessPhysicalCoordinates/SDLCOOr.h"
 
-
-//class GetMousePosTimer:public lvgl::misc::Timer{
-//    using Timer::Timer;
-//    virtual void callback(Timer&timer)override{
-//
-//    }
-//};
-enum Status{
-    First=0,
-    Second,
-    Third
-};
 class ChessGame {
 private:
+    Label* ControlTimeLabel;
+    uint32_t ControlTime;
     ChessPhysicalCoordinates *getPos;
     PhysicalPoint last_mouse_pos;
     PhysicalPoint coords;
@@ -39,9 +29,6 @@ private:
     ChessBoard chessBoard;
     Container* container;
     PointChess from,to;
-    Status status;
-
-//    lv_indev_data_t last_mouse_data;
 public:
     ChessGame();
     const ChessBoard& getChessBoard() const;
@@ -49,6 +36,7 @@ public:
     uint8_t GetWinner() const;
     bool GetNextPlayer() const;
     uint8_t GetScreenPos();
+    void updateControlTime();
     void Run();
     ~ChessGame();
 };
@@ -58,8 +46,10 @@ public:
     ChessGame demo2;//该对象只能存在一个
     using Timer::Timer;
     virtual void callback(Timer&timer)override{
+
         demo2.GetScreenPos();
         demo2.Run();
+//        demo2.updateControlTime();
     }
 };
 #endif //CPROJECT_CHESSGAME_H

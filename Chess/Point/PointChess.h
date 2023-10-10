@@ -32,7 +32,7 @@ public:
     }
 
     bool IsInNinePalaces() const {
-        return m_x>=3&&m_x<5&&(m_y<2||m_y>=7);
+        return m_x>=3&&m_x<=5&&(m_y<=2||m_y>=7);
     }
 
 

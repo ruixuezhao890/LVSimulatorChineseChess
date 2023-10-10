@@ -21,8 +21,8 @@ using namespace std;
 class ChessBoard;
 class ChessPiece {
 protected:
-//    Style* m_style;
-    Arc* m_arc;
+//    Event ButtonEvent;
+    Style* m_style;
     Button* m_button;
     Label* m_label;
     PointChess m_point;
@@ -35,20 +35,13 @@ public:
     virtual bool CanMoveTo(const PointChess& point)const=0;
     virtual const char * GetName()const=0;
     virtual const bool CanCrossTheRiver()const=0;
-//    virtual void DeleteButton()=0;
     void DeleteButton();
-//    void GreatButton();
     bool MoveTo(const PointChess &point);
     void Draw();
-//    void Draw(const PointChess& point);
-
-
-
-    PhysicalPoint getScreenPixelsXY();
     void StyleInit();
-
-
+    void StyleUpdate(lv_color_t value);
 };
+
 
 
 #endif //CPROJECT_CHESSPIECE_H

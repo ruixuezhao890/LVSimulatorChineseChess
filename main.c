@@ -150,6 +150,7 @@ static void hal_init(void)
   /*This function will be called periodically (by the library) to get the mouse position and state*/
   indev_drv_1.read_cb = sdl_mouse_read;
   lv_indev_t *mouse_indev = lv_indev_drv_register(&indev_drv_1);
+//  lv_indev_set_group(mouse_indev, g);
 
   static lv_indev_drv_t indev_drv_2;
   lv_indev_drv_init(&indev_drv_2); /*Basic initialization*/

@@ -21,7 +21,7 @@ Pawn::Pawn(const PointChess &point, bool color, ChessBoard &chessboard) : ChessP
 bool Pawn::CanMoveTo(const PointChess &point) const {
     if (board.GetChessBoard(point) == nullptr || board.GetChessBoard(point)->ChessColor != this->ChessColor)
     {
-        uint8_t front = (ChessColor == RED ? 1 : -1);
+        int8_t front = (ChessColor == RED ? -1 :1 );//考虑数据的-号
         if (ChessColor == m_point.ColorOfArea())//没过河
             return point == PointChess(m_point.m_x, m_point.m_y + front);
         const PointChess s[3] = { {0,front},{1,0},{-1,0} };

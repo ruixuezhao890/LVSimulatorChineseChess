@@ -31,7 +31,8 @@ void ChessBoard::DrawChessBoard() {
     static std::vector<lv_point_t> pointsObliqueLineRed;//红色斜线
     lv_point_t tempPoint1={0, 0};
     lv_point_t tempPoint2={0, 0};
-    auto root=scr_act();
+    auto root=layer_top();
+
 
     static auto label=Label(root);
     static auto label1=Label(root);
@@ -40,27 +41,19 @@ void ChessBoard::DrawChessBoard() {
     static auto lineColRed=Line(root);
     static auto ObliqueLineBlack=Line(root);
     static auto ObliqueLineRed=Line(root);
-    static Style style;
-    style.set_border_color(palette::black());
-    style.set_border_width(2);
-    style.set_border_opa(LV_OPA_50);
-    style.set_border_side(LV_BORDER_SIDE_FULL);
     label.set_text("楚      河");
     label.set_style_text_font(&myFont,LV_PART_MAIN);
     label.set_style_text_align(LV_TEXT_ALIGN_CENTER,0);
     label.set_style_text_color(palette::black(),0);
     label.set_size(INTERVALX + 8*CHESS_GRID_SIZE+35,ChuRiver*2+10);
-   // label.add_style(style,LV_STATE_DEFAULT);
    label.align(LV_ALIGN_CENTER,-(INTERVALX+2*CHESS_GRID_SIZE),ChuRiver/2);
-
    label1.set_text("汉      界");
    label1.set_style_text_font(&myFont,LV_PART_MAIN);
    label1.set_style_text_align(LV_TEXT_ALIGN_CENTER,0);
    label1.set_style_text_color(palette::black(),0);
    label1.set_size(INTERVALX + 8*CHESS_GRID_SIZE+35,ChuRiver*2+10);
    label1.align(LV_ALIGN_CENTER,(INTERVALX+2*CHESS_GRID_SIZE),ChuRiver/2);
-   // label.set_pos(INTERVALX,INTERVALY+5*CHESS_GRID_SIZE);
-    //label.center();
+
     tempPoint1.x=INTERVALX;tempPoint1.y=INTERVALY + (ROW-1) * CHESS_GRID_SIZE+ChuRiver;pointsRow.push_back(tempPoint1);
     tempPoint1.x=INTERVALX;tempPoint1.y=INTERVALY;pointsRow.push_back(tempPoint1);
     tempPoint2.x=INTERVALX + COL*CHESS_GRID_SIZE;tempPoint2.y=INTERVALY;pointsRow.push_back(tempPoint2);
@@ -162,9 +155,11 @@ void ChessBoard::DrawChessBoard() {
 }
 
 ChessBoard::ChessBoard() {
+
     InitChessPiece();
-    DrawChessBoard();
     DrawChess();
+    DrawChessBoard();
+
 }
 
 ChessBoard::~ChessBoard() {
@@ -180,8 +175,6 @@ void ChessBoard::DrawChess() {
     for (int i = 0; i < (COL+1); ++i) {
         for (int j = 0; j <ROW; ++j) {
             if (this->Board[i][j] != nullptr){
-                LV_LOG_WARN("%d  %d  %d %d  %d %s\n",count,Board[i][j]->GetPoint().m_x,Board[i][j]->GetPoint().m_y,i,j,
-                            Board[i][j]->GetName());
                 this->Board[i][j]->Draw();
             }
         }
@@ -199,10 +192,38 @@ void ChessBoard::InitChessPiece() {
     new Rook(PointChess(0,0),BLACK,*this);
     new Rook(PointChess(0,9),RED,*this);
     new Cannon(PointChess(1,7),RED,*this);//测试
-    new Cannon(PointChess(1,3),BLACK,*this);//测试
+    new Cannon(PointChess(1,2),BLACK,*this);//测试
     new Horse(PointChess(1,9),RED,*this);
     new Horse(PointChess(1,0),BLACK,*this);
     new Elephant(PointChess(2,0),BLACK,*this);
+    new Elephant(PointChess(2,9),RED,*this);
+    new Adviser(PointChess(3,0),BLACK,*this);
+    new Adviser(PointChess(3,9),RED,*this);
+
+    new King(PointChess(4,0),BLACK,*this);
+    new King(PointChess(4,9),RED,*this);
+
+    new Rook(PointChess(8,0),BLACK,*this);
+    new Rook(PointChess(8,9),RED,*this);
+    new Cannon(PointChess(7,7),RED,*this);//测试
+    new Cannon(PointChess(7,2),BLACK,*this);//测试
+    new Horse(PointChess(7,9),RED,*this);
+    new Horse(PointChess(7,0),BLACK,*this);
+    new Elephant(PointChess(6,0),BLACK,*this);
+    new Elephant(PointChess(6,9),RED,*this);
+    new Adviser(PointChess(5,0),BLACK,*this);
+    new Adviser(PointChess(5,9),RED,*this);
+    new Pawn(PointChess(0,3),BLACK,*this);
+    new Pawn(PointChess(2,3),BLACK,*this);
+    new Pawn(PointChess(4,3),BLACK,*this);
+    new Pawn(PointChess(6,3),BLACK,*this);
+    new Pawn(PointChess(8,3),BLACK,*this);
+    new Pawn(PointChess(0,6),RED,*this);
+    new Pawn(PointChess(2,6),RED,*this);
+    new Pawn(PointChess(4,6),RED,*this);
+    new Pawn(PointChess(6,6),RED,*this);
+    new Pawn(PointChess(8,6),RED,*this);
+
 }
 
 ChessPiece *&ChessBoard::GetChessBoard(const PointChess &point) {
@@ -219,7 +240,6 @@ void ChessBoard::ReMoveChess(const PointChess &point) {
         GetChessBoard(point)->DeleteButton();
         delete GetChessBoard(point);//释放开辟的指针
         GetChessBoard(point) = nullptr;//置为空指针
-//    Board[point.m_x][point.m_y].;
 
     }
 }
