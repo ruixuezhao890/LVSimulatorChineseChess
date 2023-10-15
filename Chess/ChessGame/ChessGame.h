@@ -17,7 +17,7 @@
 #include "Chess/ChessBoard/ChessBoard.h"
 #include "Chess/ChessPhysicalCoordinates/ChessPhysicalCoordinates.h"
 #include "Chess/ChessPhysicalCoordinates/SDLCOOr.h"
-
+#define REMAININGTIME 180
 class ChessGame {
 private:
     Label* ControlTimeLabel;
@@ -46,10 +46,11 @@ public:
     ChessGame demo2;//该对象只能存在一个
     using Timer::Timer;
     virtual void callback(Timer&timer)override{
-
+        demo2.updateControlTime();
         demo2.GetScreenPos();
         demo2.Run();
-//        demo2.updateControlTime();
+
+
     }
 };
 #endif //CPROJECT_CHESSGAME_H

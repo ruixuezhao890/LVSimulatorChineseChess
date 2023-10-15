@@ -418,4 +418,6 @@ CMakeFiles/main.dir/Chess/ChessGame/ChessGame.cpp.obj: \
  D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drivers/sdl/sdl_common.h \
  D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_drv_conf.h \
  D:/lvgl/lv_port_pc_eclipse-release-v8.3/lv_conf.h \
+ D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/ChessPiece.h \
+ D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/King.h \
  D:/lvgl/lv_port_pc_eclipse-release-v8.3/Chess/ChessPiece/ChessPiece.h

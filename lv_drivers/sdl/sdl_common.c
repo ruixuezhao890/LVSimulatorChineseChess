@@ -47,24 +47,18 @@ int TransmissionLast_y;
  */
 void sdl_mouse_read(lv_indev_drv_t * indev_drv, lv_indev_data_t * data) {
     (void) indev_drv;      /*Unused*/
-//    if (indev_drv)
-//    SDL_Event ev;
     /*Store the collected data*/
     data->point.x = last_x;
     data->point.y = last_y;
-
-
-//    uint8_t rec=SDL_GetMouseState((int *)&last_x,(int *)&last_y);
     if (left_button_down){//下面有个函数会进行鼠标状态的判断 这是一个全局变量 所以下面判断之后进行修改之后
                             //这里就可以知道左键是否按下；下面的函数也可以判断右键是否按下
         data->state = LV_INDEV_STATE_PRESSED;
         TransmissionLast_x = last_x;
         TransmissionLast_y = last_y;
-        //LV_LOG_WARN("x:%d y:%d\n",  data->point.x, data->point.y);
+
     }
-  //  data->state = LV_INDEV_STATE_RELEASED;
 //    data->state = left_button_down ? LV_INDEV_STATE_PRESSED : LV_INDEV_STATE_RELEASED;
-//    printf("state:%d x:%d y:%d\n", data->state, data->point.x, data->point.y);
+
 
 }
 

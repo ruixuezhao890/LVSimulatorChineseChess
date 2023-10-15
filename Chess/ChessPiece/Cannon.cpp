@@ -69,7 +69,8 @@ bool Cannon::CanMoveTo(const PointChess &point) const {
                         }
                     }
                 }
-                return true;
+                if (count == 1)
+                    return true;
             } else if (point.m_y == m_point.m_y) {//判断棋子的横坐标与目的地之间是否存在棋子
                 if (point.m_x < m_point.m_x) {
                     for (uint8_t i = point.m_x + 1; i < m_point.m_x; i++) {

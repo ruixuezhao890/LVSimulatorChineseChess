@@ -19,7 +19,7 @@
 extern const bool BLACK;
 extern const bool RED;
 extern const uint8_t NONE;
-
+extern const uint8_t DRAW;
 class PointChess {
 public:
     int m_x,m_y;

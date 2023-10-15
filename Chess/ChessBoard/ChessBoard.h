@@ -46,6 +46,8 @@ private:
 
 
 public:
+    const std::list<ChessPiece*> &GetRed() const;
+    const std::list<ChessPiece*> &GetBlack() const;
     void DrawChessBoard();
     void DrawChess();
     ChessPiece*& GetChessBoard(const PointChess &point);

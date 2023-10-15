@@ -17,12 +17,15 @@
 #include "ChessGame.h"
 #include "Chess/ChessPiece/ChessPiece.h"
 #include "lv_drivers/sdl/sdl_common.h"
+#include "Chess/ChessPiece/King.h"
 
 
 ChessGame::ChessGame():nextPlayer(RED) {
     getPos=new SDLCOOr();
     ControlTimeLabel=new Label(scr_act());
-    ControlTime=180;
+    ControlTimeLabel->align(LV_ALIGN_CENTER,0,ChuRiver/16);
+    ControlTimeLabel->set_size(100,50);ControlTime=REMAININGTIME;
+    ControlTimeLabel->set_text_fmt("Êó∂Èó¥Ââ©‰Ωô%dÁ∫¢Êñπ", ControlTime);
     coords.x=-1;
     coords.y=-1;
     from=PointChess(-1,-1);
@@ -38,6 +41,7 @@ bool ChessGame::Move(const PointChess &from, const PointChess &to) {
     ==nextPlayer)){
         if (chessBoard.GetChessBoard(from)->MoveTo(to)){
             nextPlayer=!nextPlayer;
+            ControlTime=REMAININGTIME+1;
             return true;
         }
         return false;
@@ -48,6 +52,18 @@ bool ChessGame::Move(const PointChess &from, const PointChess &to) {
 uint8_t ChessGame::GetWinner() const {
     if (chessBoard.KingFaceToFace()) {
         return nextPlayer;
+    }
+   if(std::find_if(chessBoard.GetRed().begin(),chessBoard.GetRed().end(),[](ChessPiece *p){
+       return  dynamic_cast<King*>(p)!= nullptr;})==chessBoard.GetRed().end()){//Á∫¢ÊñπÂ∏ÖË¢´ÂêÉ
+            return BLACK;
+       }
+    if (std::find_if(chessBoard.GetBlack().begin(),chessBoard.GetBlack().end(),[](ChessPiece *p){
+       return  dynamic_cast<King*>(p)!= nullptr;})==chessBoard.GetBlack().end()){//ÈªëÊñπÂ∏ÖË¢´ÂêÉ
+            return RED;
+       }
+    if (std::count_if(chessBoard.GetRed().begin(), chessBoard.GetRed().end(), [](ChessPiece* p) {return p->CanCrossTheRiver(); }) +
+        std::count_if(chessBoard.GetBlack().begin(),chessBoard.GetBlack().end(), [](ChessPiece* p) {return p->CanCrossTheRiver(); }) == 0){
+        return DRAW;//ÂèåÊñπÈÉΩ‰∏çËÉΩËøáÊ≤≥ÔºåÂπ≥Â±Ä
     }
     return NONE;
 }
@@ -63,11 +79,22 @@ ChessGame::~ChessGame() {
 void ChessGame::Run() {
     if (from.m_x>=0&&from.m_y>=0&&to.m_x>=0&&to.m_y>=0){
         if ( Move(from,to)) {
-            LV_LOG_WARN("Move OK\n");
+//            LV_LOG_WARN("Move OK\n");
             chessBoard.DrawChess();
             from.m_x = from.m_y = to.m_x = to.m_y = -1;
         }
     }
+    uint8_t Judge=GetWinner();
+    if (Judge!=NONE) {
+        if (Judge==RED){
+            ControlTimeLabel->set_text("Á∫¢ÊñπËÉúÂà©");
+        } else if (Judge==BLACK){
+            ControlTimeLabel->set_text("ÈªëÊñπËÉúÂà©");
+        } else if(Judge==DRAW){
+            ControlTimeLabel->set_text("Âπ≥Â±Ä");
+        }
+    }
+
 
 }
 
@@ -108,8 +135,8 @@ uint8_t ChessGame::GetScreenPos() {
         if (coords.x >= 0 && coords.y >= 0) {
             if (chessBoard.GetChessBoard(coords.x, coords.y) != nullptr&&(chessBoard.GetChessBoard(coords.x, coords.y)->ChessColor== nextPlayer)) {
                 if ( (chessBoard.GetChessBoard(coords.x, coords.y)->ChessColor == nextPlayer)) {
-                    //—°÷– ±—’…´–ﬁ∏ƒ
-                    if(from.m_x==-1&&from.m_y==-1){//µ⁄“ª¥Œµ„ª˜
+                    //ÈÄâ‰∏≠Êó∂È¢úËâ≤‰øÆÊîπ
+                    if(from.m_x==-1&&from.m_y==-1){//Á¨¨‰∏ÄÊ¨°ÁÇπÂáª
                     chessBoard.GetChessBoard(coords.x,coords.y)->StyleUpdate(color::from_rgb(134, 200, 200));
                     }else if(from.m_x!=-1&&from.m_y!=-1&&(from.m_x!=coords.x||from.m_y!=coords.y)) {
                         chessBoard.GetChessBoard(coords.x,coords.y)->StyleUpdate(color::from_rgb(134, 200, 200));
@@ -118,7 +145,7 @@ uint8_t ChessGame::GetScreenPos() {
                     }
                     from.m_x = coords.x;
                     from.m_y = coords.y;
-                    to.m_y = to.m_x = -1;//’‚¿Ô±ÿ–Î“™Ω´∏√◊¯±Í…Ë÷√Œ™∏∫◊¯±Í≤ª»ªª·≥ˆœ÷bug
+                    to.m_y = to.m_x = -1;//ËøôÈáåÂøÖÈ°ªË¶ÅÂ∞ÜËØ•ÂùêÊ†áËÆæÁΩÆ‰∏∫Ë¥üÂùêÊ†á‰∏çÁÑ∂‰ºöÂá∫Áé∞bug
                         LV_LOG_WARN("from:%d %d\n", from.m_x, from.m_y);
                         return 1;
                 }
@@ -128,7 +155,7 @@ uint8_t ChessGame::GetScreenPos() {
                 if ( (coords.x != from.m_x || coords.y != from.m_y)) {
                     to.m_x = coords.x;
                     to.m_y = coords.y;
-                    //“∆∂Ø÷Æ∫Û—’…´«Â≥˝
+                    //ÁßªÂä®‰πãÂêéÈ¢úËâ≤Ê∏ÖÈô§
                     if (from.m_x != -1 && from.m_y != -1) {
                         chessBoard.GetChessBoard(from.m_x,from.m_y)->StyleUpdate(palette::white());
                     }
@@ -148,10 +175,15 @@ void ChessGame::updateControlTime() {
     static uint32_t count=0;
     count++;
     if (count % 100 == 0) {
+        string temp;
+        LV_LOG_WARN("count:%d\n", count);
         ControlTime--;
         ControlTimeLabel->set_style_text_font(&myFont,LV_STATE_DEFAULT);
-        ControlTimeLabel->set_text_fmt(" £”‡ ±º‰%d", ControlTime);
+        GetNextPlayer()?temp="Êó∂Èó¥Ââ©‰Ωô"+to_string(ControlTime)+"Á∫¢Êñπ":temp="Êó∂Èó¥Ââ©‰Ωô"+to_string(ControlTime)+"ÈªëÊñπ";
+        ControlTimeLabel->set_text(temp);
         if (ControlTime == 0) {
+            ControlTimeLabel->set_text("Ë∂ÖÊó∂");
+            ControlTime=REMAININGTIME;
             nextPlayer=!nextPlayer;
         }
         count = 0;

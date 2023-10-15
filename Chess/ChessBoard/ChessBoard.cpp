@@ -148,10 +148,6 @@ void ChessBoard::DrawChessBoard() {
     ObliqueLineRed.set_points(pointsObliqueLineRed);
 
 
-
-
-
-
 }
 
 ChessBoard::ChessBoard() {
@@ -260,7 +256,8 @@ bool ChessBoard::KingFaceToFace() const {
   return dynamic_cast<King*>(p)!= nullptr;});
     if (r!=Red.end()&&b!=Black.end()){
         if ((*r)->GetPoint().m_x==(*b)->GetPoint().m_x){
-            for (uint8_t i = (*r)->GetPoint().m_y; i < (*b)->GetPoint().m_y; ++i) {
+            //此处必须加一，否则算子时会将自己算进去，这样无论怎么样都会存在一个棋子在他们之间
+            for (uint8_t i = (*b)->GetPoint().m_y+1; i < (*r)->GetPoint().m_y; ++i) {
                 if (GetChessBoard(PointChess((*r)->GetPoint().m_x,i))){
                     return false;
                 }
@@ -271,6 +268,14 @@ bool ChessBoard::KingFaceToFace() const {
     }
 
     return false;
+}
+
+const std::list<ChessPiece *> &ChessBoard::GetRed() const {
+    return Red;
+}
+
+const std::list<ChessPiece *> &ChessBoard::GetBlack() const {
+    return Black;
 }
 
 

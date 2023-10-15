@@ -21,7 +21,6 @@ using namespace std;
 class ChessBoard;
 class ChessPiece {
 protected:
-//    Event ButtonEvent;
     Style* m_style;
     Button* m_button;
     Label* m_label;
